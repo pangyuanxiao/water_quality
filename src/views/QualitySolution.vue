@@ -5,7 +5,7 @@
 </template>
 
 <script lang="ts">
-import { test } from '../util/csvParse';
+//import { test } from '../util/csvParse';
 //import { demo } from '../util/csvParse';
 
 import { defineComponent } from 'vue';
@@ -13,7 +13,7 @@ import { defineComponent } from 'vue';
 export default defineComponent({
   setup() {
       //demo();
-      test();
+      //test();
   },
 })
 

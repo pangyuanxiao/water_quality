@@ -1,16 +1,21 @@
 <template>
   <div class="back-pc">
-    <h1>This is an Info page</h1>
+     <div id="container"></div>
   </div>
+ 
 </template>
 
-<script lang="ts">
-
-export default {
-  name: 'HomeView',
-  components: {
-    // HelloWorld,
-    
-  }
-}
+<script>
+import { defineComponent } from 'vue';
+import {demo} from './graph'
+export default defineComponent({
+  mounted() {
+     demo();
+      //test();
+  },
+})
 </script>
+
+function mounted() {
+  throw new Error('Function not implemented.');
+}

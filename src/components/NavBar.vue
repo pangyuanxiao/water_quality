@@ -1,7 +1,7 @@
 <template>
   <a-menu
     id="dddddd"   
-    style="background-color:whitesmoke;lineHeight: 10vh"
+    style="background-color:whitesmoke;lineHeight: 5vh"
     mode="horizontal"
 
   >

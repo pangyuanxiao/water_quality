@@ -5,7 +5,7 @@
  
 </template>
 
-<script>
+<script lang="ts">
 import { defineComponent } from 'vue';
 import {demo} from './graph'
 export default defineComponent({

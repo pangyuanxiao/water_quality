@@ -2,11 +2,11 @@
   <div >
    
     <a-layout >
-      <a-layout-header style="padding: 0px;height: 10vh;">
+      <a-layout-header style="padding: 0px;height: 5vh;">
         <NavBar/>
       </a-layout-header>
       
-      <a-layout-content  style="background: #fff;height: 90vh">
+      <a-layout-content  style="background: #fff;height: 95vh">
         <router-view></router-view>
       </a-layout-content>
     </a-layout>

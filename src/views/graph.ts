@@ -26,3 +26,27 @@ const data = [
   // 渲染可视化
   chart.render();
 }
+export function line():void{
+  const chart = new Chart({
+    container: 'container',
+    theme: 'classic',
+    autoFit: true,
+  });
+  
+  chart
+    .line()
+    .data({
+      type: 'fetch',
+      value:
+        'http://localhost:3000/ph',
+      format: 'csv',
+    })
+    .encode('x', 'record_date')
+    .encode('y', 'silicate')
+    .axis('x',{
+      tick:false,
+      label:false,
+    });
+  
+  chart.render();
+}

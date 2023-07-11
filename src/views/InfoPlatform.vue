@@ -2,11 +2,45 @@
   <div class="back-pc">
   <a-form
     layout="inline"
-    style="padding: 50px;"
+    style="padding: 50px 50px 0px 50px;"
   >
     <a-form-item label="Type:">
-      
+      <a-select
+      placeholder="Select or search a aera">
+
+      </a-select>
     </a-form-item>
+    <a-form-item label="Type:">
+      <a-select
+      placeholder="Select or search a aera">
+      </a-select>
+    </a-form-item>
+    <a-form-item>
+      <a-button
+        type="primary"
+        html-type="submit"
+      >
+        Search
+      </a-button>
+    </a-form-item>
+    <a-form-item>
+      <a-button
+        type="primary"
+        html-type="submit"
+      >
+        Reset
+      </a-button>
+    </a-form-item>
+    <a-form-item>
+      <a-button
+        type="primary"
+        html-type="submit"
+      >
+        Reset
+      </a-button>
+    </a-form-item>
+    
+
   </a-form>
   <a-table :columns="columns" :data-source="data"  bordered style="padding: 5vw;"  > 
     <template #bodyCell="{ column, text }">
@@ -54,6 +88,7 @@ const columns = [
 
 const data = [
   {
+    key: '1',
     Index: '1',
     Date: '2023/06/20',
     Theme: 'Low oxygen content',

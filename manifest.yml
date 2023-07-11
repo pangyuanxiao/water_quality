@@ -1,0 +1,15 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: nodejsexpressappbejjg20210716
+  buildpack: nodejs_buildpack
+  command: npm start
+  disk_quota: 1G
+  memory: 128MB
+  domain: mybluemix.net
+  host: nodejs-express-app-bejjg-2021-07-16
+  services:
+    - nodejs-express-app-b-cloudant-1626416633865-73559
+  env:
+    OPTIMIZE_MEMORY: true

@@ -1,0 +1,338 @@
+{
+   "swagger": "2.0",
+   "info": {
+      "version": "1.0.0",
+      "title": "nodejsexpressapp API"
+   },
+   "consumes": [
+      "text/plain"
+   ],
+   "produces": [
+      "application/json"
+   ],
+   "paths": {
+      "/health": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/healthResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "status": "UP"
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/login": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/loginResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": {
+                           "userId": 1234,
+                           "userName": 1234,
+                           "nickName": "张三"
+                        }
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/logout": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/logoutResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": null
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/regist": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/registResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": null
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/changePass": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/changePassResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": null
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/allAreas": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/allAreasResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": [{
+                           "code": "区域编号",
+                           "title": "区域名称"
+                        }]
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/allTypes": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/allTypesResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": [{
+                           "busId": "标签Id",
+                           "busName": "标签名称"
+                        }]
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/addOrUpdate": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/addOrUpdateResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "data": null
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "/listHelps": {
+         "get": {
+            "operationId": "get",
+            "description": "Get health status of nodejsmicroservice",
+            "responses": {
+               "200": {
+                  "description": "Health check response",
+                  "schema": {
+                     "$ref": "#/definitions/listHelpsResponse"
+                  },
+                  "examples": {
+                     "application/json": {
+                        "code": "200",
+                        "message": "SUCCESS",
+                        "totalNum": 1,
+                        "data": [{
+                              "messId": "111",
+                              "pubDate": "11111",
+                              "busId": "11111",
+                              "busName": "11111",
+                              "createUser": "11111",
+                              "address": "11111",
+                              "pubOrPri": "11111",
+                              "createDate": "11111",
+                              "updateDate": "11111",
+                              "titleName": "11111",
+                              "shortTitle": "1111",
+                              "content": "111"
+                        }]
+                     }
+                  }
+               }
+            }
+         }
+      }
+   },
+   "definitions": {
+      "healthResponse": {
+         "type": "object",
+         "properties": {
+            "status": {
+               "type": "string"
+            }
+         }
+      },
+      "loginResponse": {
+         "type": "object",
+         "properties": {
+            "userId": {
+               "type": "string"
+            },
+            "userName": {
+               "type": "string"
+            },
+            "nickName": {
+               "type": "string"
+            }
+         }
+      },
+      "logoutResponse": {
+         "type": "object",
+         "properties": {
+            "message": {
+               "type": "string"
+            }
+         }
+      },
+      "registResponse": {
+         "type": "object",
+         "properties": {
+            "message": {
+               "type": "string"
+            }
+         }
+      },
+      "changePassResponse": {
+         "type": "object",
+         "properties": {
+             "type": "string"
+         }
+      },
+      "allAreasResponse": {
+         "type": "object",
+         "properties": {
+            "code": {
+               "type": "string"
+            },
+            "title": {
+               "type": "string"
+            }
+         }
+      },
+      "allTypesResponse": {
+         "type": "object",
+         "properties": {
+            "busId": {
+               "type": "string"
+            },
+            "busName": {
+               "type": "string"
+            }
+         }
+      },
+      "addOrUpdateResponse": {
+         "type": "object",
+         "properties": {
+             "type": "string"
+         }
+      },
+      "listHelpsResponse": {
+         "type": "object",
+         "properties": {
+            "messId": {
+               "type": "string"
+            },
+            "putDate": {
+               "type": "string"
+            },
+            "busId": {
+               "type": "string"
+            },
+            "busName": {
+               "type": "string"
+            },
+            "createUser": {
+               "type": "string"
+            },
+            "address": {
+               "type": "string"
+            },
+            "pubOrPri": {
+               "type": "string"
+            },
+            "createDate": {
+               "type": "string"
+            },
+            "titleName": {
+               "type": "string"
+            },
+            "shortTitle": {
+               "type": "string"
+            },
+            "content": {
+               "type": "string"
+            }
+         }
+      }
+   }
+}

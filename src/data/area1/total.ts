@@ -1,7 +1,7 @@
 export const total_data = [
     {
      "user_id": 1,
-     "record_date": "2022\/4\/28",
+     "record_date": "2022/4/28",
      "Chemical oxygen demand": 5.47639485,
      "dissolved oxygen": 8.248472505,
      "Dissolved total organic carbon": 851.953,
@@ -13,7 +13,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/4\/29",
+     "record_date": "2022/4/29",
      "Chemical oxygen demand": 6.168264111,
      "dissolved oxygen": 7.06,
      "Dissolved total organic carbon": 12.22,
@@ -25,7 +25,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/4\/30",
+     "record_date": "2022/4/30",
      "Chemical oxygen demand": 5.608510638,
      "dissolved oxygen": 8.028747433,
      "Dissolved total organic carbon": 9.918,
@@ -37,7 +37,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/1",
+     "record_date": "2022/5/1",
      "Chemical oxygen demand": 5.511111111,
      "dissolved oxygen": 7.830374753,
      "Dissolved total organic carbon": 8.853,
@@ -49,7 +49,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/2",
+     "record_date": "2022/5/2",
      "Chemical oxygen demand": 34.59,
      "dissolved oxygen": 9.477756286,
      "Dissolved total organic carbon": 17.914,
@@ -61,7 +61,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/3",
+     "record_date": "2022/5/3",
      "Chemical oxygen demand": 5.625531915,
      "dissolved oxygen": 10.7456979,
      "Dissolved total organic carbon": 8.341,
@@ -73,7 +73,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/4",
+     "record_date": "2022/5/4",
      "Chemical oxygen demand": 6.834710744,
      "dissolved oxygen": 11.94856578,
      "Dissolved total organic carbon": 8.775,
@@ -85,7 +85,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/5",
+     "record_date": "2022/5/5",
      "Chemical oxygen demand": 5.811965812,
      "dissolved oxygen": 15.99611273,
      "Dissolved total organic carbon": 6.641,
@@ -97,7 +97,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/6",
+     "record_date": "2022/5/6",
      "Chemical oxygen demand": 6.116129032,
      "dissolved oxygen": 9.854771784,
      "Dissolved total organic carbon": 8.113,
@@ -109,7 +109,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/7",
+     "record_date": "2022/5/7",
      "Chemical oxygen demand": 4.626506024,
      "dissolved oxygen": 9.238683128,
      "Dissolved total organic carbon": 8.357,
@@ -121,7 +121,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/8",
+     "record_date": "2022/5/8",
      "Chemical oxygen demand": 4.355555556,
      "dissolved oxygen": 12.20930233,
      "Dissolved total organic carbon": 7.271,
@@ -133,7 +133,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/9",
+     "record_date": "2022/5/9",
      "Chemical oxygen demand": 5.507246377,
      "dissolved oxygen": 7.495219885,
      "Dissolved total organic carbon": 11.91,
@@ -145,7 +145,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/10",
+     "record_date": "2022/5/10",
      "Chemical oxygen demand": 4.661087866,
      "dissolved oxygen": 8.157389635,
      "Dissolved total organic carbon": 4.608,
@@ -157,7 +157,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/11",
+     "record_date": "2022/5/11",
      "Chemical oxygen demand": 4.614393126,
      "dissolved oxygen": 8.8,
      "Dissolved total organic carbon": 5.176,
@@ -169,7 +169,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/12",
+     "record_date": "2022/5/12",
      "Chemical oxygen demand": 5.593784684,
      "dissolved oxygen": 6.666666667,
      "Dissolved total organic carbon": 6.882,
@@ -181,7 +181,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/13",
+     "record_date": "2022/5/13",
      "Chemical oxygen demand": 4.846584546,
      "dissolved oxygen": 10.57492931,
      "Dissolved total organic carbon": 5.417,
@@ -193,7 +193,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/14",
+     "record_date": "2022/5/14",
      "Chemical oxygen demand": 140.2495374,
      "dissolved oxygen": 10.89015152,
      "Dissolved total organic carbon": 14.996,
@@ -205,7 +205,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/15",
+     "record_date": "2022/5/15",
      "Chemical oxygen demand": 4.766839378,
      "dissolved oxygen": 10.651341,
      "Dissolved total organic carbon": 3.613,
@@ -217,7 +217,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/16",
+     "record_date": "2022/5/16",
      "Chemical oxygen demand": 6.881987578,
      "dissolved oxygen": 13.01463415,
      "Dissolved total organic carbon": 6.588,
@@ -229,7 +229,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/17",
+     "record_date": "2022/5/17",
      "Chemical oxygen demand": 7.109261186,
      "dissolved oxygen": 9.698736638,
      "Dissolved total organic carbon": 5.606,
@@ -241,7 +241,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/18",
+     "record_date": "2022/5/18",
      "Chemical oxygen demand": 5.611691023,
      "dissolved oxygen": 10.51454139,
      "Dissolved total organic carbon": 7.452,
@@ -253,7 +253,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/19",
+     "record_date": "2022/5/19",
      "Chemical oxygen demand": 24.58333333,
      "dissolved oxygen": 8.542825362,
      "Dissolved total organic carbon": 8.326,
@@ -265,7 +265,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/20",
+     "record_date": "2022/5/20",
      "Chemical oxygen demand": 5.459403905,
      "dissolved oxygen": 7.157258065,
      "Dissolved total organic carbon": 7.36,
@@ -277,7 +277,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/21",
+     "record_date": "2022/5/21",
      "Chemical oxygen demand": 5.430051813,
      "dissolved oxygen": 9.460500963,
      "Dissolved total organic carbon": 2.806,
@@ -289,7 +289,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/22",
+     "record_date": "2022/5/22",
      "Chemical oxygen demand": 5.10460251,
      "dissolved oxygen": 7.152073733,
      "Dissolved total organic carbon": 3.574,
@@ -301,7 +301,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/23",
+     "record_date": "2022/5/23",
      "Chemical oxygen demand": 5.206349206,
      "dissolved oxygen": 9.205741627,
      "Dissolved total organic carbon": 5.258,
@@ -313,7 +313,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/24",
+     "record_date": "2022/5/24",
      "Chemical oxygen demand": 5.498964803,
      "dissolved oxygen": 7.412322275,
      "Dissolved total organic carbon": 5.287,
@@ -325,7 +325,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/25",
+     "record_date": "2022/5/25",
      "Chemical oxygen demand": 4.585669782,
      "dissolved oxygen": 8.602150538,
      "Dissolved total organic carbon": 4.845,
@@ -337,7 +337,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/26",
+     "record_date": "2022/5/26",
      "Chemical oxygen demand": 4.572605561,
      "dissolved oxygen": 11.04651163,
      "Dissolved total organic carbon": 4.989,
@@ -349,7 +349,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/27",
+     "record_date": "2022/5/27",
      "Chemical oxygen demand": 3.737773153,
      "dissolved oxygen": 10.55724417,
      "Dissolved total organic carbon": 4.021,
@@ -361,7 +361,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/28",
+     "record_date": "2022/5/28",
      "Chemical oxygen demand": 12.86606244,
      "dissolved oxygen": 12.61444557,
      "Dissolved total organic carbon": 4.298,
@@ -373,7 +373,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/29",
+     "record_date": "2022/5/29",
      "Chemical oxygen demand": 4.73864783,
      "dissolved oxygen": 12.96829971,
      "Dissolved total organic carbon": 2.01,
@@ -385,7 +385,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/30",
+     "record_date": "2022/5/30",
      "Chemical oxygen demand": 7.661016949,
      "dissolved oxygen": 10.80416272,
      "Dissolved total organic carbon": 4.38,
@@ -397,7 +397,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/5\/31",
+     "record_date": "2022/5/31",
      "Chemical oxygen demand": 6.302461899,
      "dissolved oxygen": 9.346642468,
      "Dissolved total organic carbon": 3.645,
@@ -409,7 +409,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/1",
+     "record_date": "2022/6/1",
      "Chemical oxygen demand": 5.70917226,
      "dissolved oxygen": 7.887323944,
      "Dissolved total organic carbon": 4.885,
@@ -421,7 +421,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/2",
+     "record_date": "2022/6/2",
      "Chemical oxygen demand": 5.389671362,
      "dissolved oxygen": 8.5625,
      "Dissolved total organic carbon": 5.803,
@@ -433,7 +433,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/3",
+     "record_date": "2022/6/3",
      "Chemical oxygen demand": 5.24106113,
      "dissolved oxygen": 7.549120993,
      "Dissolved total organic carbon": 5.301,
@@ -445,7 +445,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/4",
+     "record_date": "2022/6/4",
      "Chemical oxygen demand": 5.802298851,
      "dissolved oxygen": 9.766081871,
      "Dissolved total organic carbon": 3.115,
@@ -457,7 +457,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/5",
+     "record_date": "2022/6/5",
      "Chemical oxygen demand": 4.738022426,
      "dissolved oxygen": 6.67311412,
      "Dissolved total organic carbon": 4.182,
@@ -469,7 +469,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/6",
+     "record_date": "2022/6/6",
      "Chemical oxygen demand": 3.80952381,
      "dissolved oxygen": 7.424381302,
      "Dissolved total organic carbon": 3.743,
@@ -481,7 +481,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/7",
+     "record_date": "2022/6/7",
      "Chemical oxygen demand": 3.603677222,
      "dissolved oxygen": 9.321533923,
      "Dissolved total organic carbon": 5.115,
@@ -493,7 +493,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/8",
+     "record_date": "2022/6/8",
      "Chemical oxygen demand": 3.437751004,
      "dissolved oxygen": 11.53846154,
      "Dissolved total organic carbon": 4.277,
@@ -505,7 +505,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/9",
+     "record_date": "2022/6/9",
      "Chemical oxygen demand": 3.639960435,
      "dissolved oxygen": 12.92220114,
      "Dissolved total organic carbon": 4.395,
@@ -517,7 +517,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/10",
+     "record_date": "2022/6/10",
      "Chemical oxygen demand": 4.365111562,
      "dissolved oxygen": 11.53628652,
      "Dissolved total organic carbon": 4.749,
@@ -529,7 +529,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/11",
+     "record_date": "2022/6/11",
      "Chemical oxygen demand": 5.299412916,
      "dissolved oxygen": 10.12793177,
      "Dissolved total organic carbon": 5.642,
@@ -541,7 +541,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/12",
+     "record_date": "2022/6/12",
      "Chemical oxygen demand": 3.966173362,
      "dissolved oxygen": 11.43157895,
      "Dissolved total organic carbon": 5.115,
@@ -553,7 +553,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/13",
+     "record_date": "2022/6/13",
      "Chemical oxygen demand": 7.16,
      "dissolved oxygen": 8.324768756,
      "Dissolved total organic carbon": 5.845,
@@ -565,7 +565,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/14",
+     "record_date": "2022/6/14",
      "Chemical oxygen demand": 5.44516129,
      "dissolved oxygen": 7.265388496,
      "Dissolved total organic carbon": 5.829,
@@ -577,7 +577,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/15",
+     "record_date": "2022/6/15",
      "Chemical oxygen demand": 4.486992716,
      "dissolved oxygen": 6.8359375,
      "Dissolved total organic carbon": 6.643,
@@ -589,7 +589,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/16",
+     "record_date": "2022/6/16",
      "Chemical oxygen demand": 4.554621849,
      "dissolved oxygen": 8.737864078,
      "Dissolved total organic carbon": 4.776,
@@ -601,7 +601,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/17",
+     "record_date": "2022/6/17",
      "Chemical oxygen demand": 4.796610169,
      "dissolved oxygen": 12.77777778,
      "Dissolved total organic carbon": 5.479,
@@ -613,7 +613,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/18",
+     "record_date": "2022/6/18",
      "Chemical oxygen demand": 5.425867508,
      "dissolved oxygen": 8.199811499,
      "Dissolved total organic carbon": 6.046,
@@ -625,7 +625,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/19",
+     "record_date": "2022/6/19",
      "Chemical oxygen demand": 3.714285714,
      "dissolved oxygen": 9.283088235,
      "Dissolved total organic carbon": 4.489,
@@ -637,7 +637,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/20",
+     "record_date": "2022/6/20",
      "Chemical oxygen demand": 3.530916844,
      "dissolved oxygen": 10.87396504,
      "Dissolved total organic carbon": 3.566,
@@ -649,7 +649,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/21",
+     "record_date": "2022/6/21",
      "Chemical oxygen demand": 4.004214963,
      "dissolved oxygen": 11.24882629,
      "Dissolved total organic carbon": 3.765,
@@ -661,7 +661,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/22",
+     "record_date": "2022/6/22",
      "Chemical oxygen demand": 13.29170732,
      "dissolved oxygen": 11.6462841,
      "Dissolved total organic carbon": 5.511,
@@ -673,7 +673,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/23",
+     "record_date": "2022/6/23",
      "Chemical oxygen demand": 15.07234043,
      "dissolved oxygen": 11.24882629,
      "Dissolved total organic carbon": 5.821,
@@ -685,7 +685,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/24",
+     "record_date": "2022/6/24",
      "Chemical oxygen demand": 5.090909091,
      "dissolved oxygen": 7.250698975,
      "Dissolved total organic carbon": 5.887,
@@ -697,7 +697,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/25",
+     "record_date": "2022/6/25",
      "Chemical oxygen demand": 4.64921466,
      "dissolved oxygen": 7.001862197,
      "Dissolved total organic carbon": 4.285,
@@ -709,7 +709,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/26",
+     "record_date": "2022/6/26",
      "Chemical oxygen demand": 4.245762712,
      "dissolved oxygen": 8.965517241,
      "Dissolved total organic carbon": 3.476,
@@ -721,7 +721,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/27",
+     "record_date": "2022/6/27",
      "Chemical oxygen demand": 3.86906019,
      "dissolved oxygen": 7.654093836,
      "Dissolved total organic carbon": 3.826,
@@ -733,7 +733,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/28",
+     "record_date": "2022/6/28",
      "Chemical oxygen demand": 4.439073515,
      "dissolved oxygen": 10.50724638,
      "Dissolved total organic carbon": 3.834,
@@ -745,7 +745,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/29",
+     "record_date": "2022/6/29",
      "Chemical oxygen demand": 4.032854209,
      "dissolved oxygen": 11.7044335,
      "Dissolved total organic carbon": 3.022,
@@ -757,7 +757,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/6\/30",
+     "record_date": "2022/6/30",
      "Chemical oxygen demand": 3.863495346,
      "dissolved oxygen": 8.444444444,
      "Dissolved total organic carbon": 3.75,
@@ -769,7 +769,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/1",
+     "record_date": "2022/7/1",
      "Chemical oxygen demand": 3.70989011,
      "dissolved oxygen": 9.6,
      "Dissolved total organic carbon": 3.23,
@@ -781,7 +781,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/2",
+     "record_date": "2022/7/2",
      "Chemical oxygen demand": 8.141124587,
      "dissolved oxygen": 11.40350877,
      "Dissolved total organic carbon": 3.513,
@@ -793,7 +793,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/3",
+     "record_date": "2022/7/3",
      "Chemical oxygen demand": 14.13793103,
      "dissolved oxygen": 12.22110553,
      "Dissolved total organic carbon": 6.003,
@@ -805,7 +805,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/4",
+     "record_date": "2022/7/4",
      "Chemical oxygen demand": 14.01076426,
      "dissolved oxygen": 10.85427136,
      "Dissolved total organic carbon": 7.064,
@@ -817,7 +817,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/5",
+     "record_date": "2022/7/5",
      "Chemical oxygen demand": 5.792820513,
      "dissolved oxygen": 9.958932238,
      "Dissolved total organic carbon": 5.573,
@@ -829,7 +829,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/6",
+     "record_date": "2022/7/6",
      "Chemical oxygen demand": 6.211764706,
      "dissolved oxygen": 8.794326241,
      "Dissolved total organic carbon": 5.904,
@@ -841,7 +841,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/7",
+     "record_date": "2022/7/7",
      "Chemical oxygen demand": 4.7734375,
      "dissolved oxygen": 8.929292929,
      "Dissolved total organic carbon": 5.593,
@@ -853,7 +853,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/8",
+     "record_date": "2022/7/8",
      "Chemical oxygen demand": 4.921052632,
      "dissolved oxygen": 8.80075543,
      "Dissolved total organic carbon": 5.192,
@@ -865,7 +865,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/9",
+     "record_date": "2022/7/9",
      "Chemical oxygen demand": 3.76185671,
      "dissolved oxygen": 10.4735376,
      "Dissolved total organic carbon": 3.635,
@@ -877,7 +877,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/10",
+     "record_date": "2022/7/10",
      "Chemical oxygen demand": 4.061412487,
      "dissolved oxygen": 6.618575293,
      "Dissolved total organic carbon": 3.944,
@@ -889,7 +889,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/11",
+     "record_date": "2022/7/11",
      "Chemical oxygen demand": 7.005181347,
      "dissolved oxygen": 7.28515625,
      "Dissolved total organic carbon": 4.71,
@@ -901,7 +901,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/12",
+     "record_date": "2022/7/12",
      "Chemical oxygen demand": 4.462222222,
      "dissolved oxygen": 9.19921875,
      "Dissolved total organic carbon": 5.211,
@@ -913,7 +913,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/13",
+     "record_date": "2022/7/13",
      "Chemical oxygen demand": 4.639153439,
      "dissolved oxygen": 8.979187314,
      "Dissolved total organic carbon": 6.259,
@@ -925,7 +925,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/14",
+     "record_date": "2022/7/14",
      "Chemical oxygen demand": 3.889502762,
      "dissolved oxygen": 10.48096192,
      "Dissolved total organic carbon": 5.024,
@@ -937,7 +937,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/15",
+     "record_date": "2022/7/15",
      "Chemical oxygen demand": 7.536480687,
      "dissolved oxygen": 11.47679325,
      "Dissolved total organic carbon": 5.714,
@@ -949,7 +949,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/16",
+     "record_date": "2022/7/16",
      "Chemical oxygen demand": 5.957618567,
      "dissolved oxygen": 11.95767196,
      "Dissolved total organic carbon": 6.447,
@@ -961,7 +961,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/17",
+     "record_date": "2022/7/17",
      "Chemical oxygen demand": 6.150753769,
      "dissolved oxygen": 13.64971751,
      "Dissolved total organic carbon": 6.145,
@@ -973,7 +973,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/18",
+     "record_date": "2022/7/18",
      "Chemical oxygen demand": 6.874878758,
      "dissolved oxygen": 9.139896373,
      "Dissolved total organic carbon": 5.327,
@@ -985,7 +985,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/19",
+     "record_date": "2022/7/19",
      "Chemical oxygen demand": 4.216106014,
      "dissolved oxygen": 8.842975207,
      "Dissolved total organic carbon": 5.866,
@@ -997,7 +997,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/20",
+     "record_date": "2022/7/20",
      "Chemical oxygen demand": 4.089456869,
      "dissolved oxygen": 8.524251806,
      "Dissolved total organic carbon": 4.543,
@@ -1009,7 +1009,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/21",
+     "record_date": "2022/7/21",
      "Chemical oxygen demand": 4.596112311,
      "dissolved oxygen": 9.633300297,
      "Dissolved total organic carbon": 4.683,
@@ -1021,7 +1021,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/22",
+     "record_date": "2022/7/22",
      "Chemical oxygen demand": 4.176154672,
      "dissolved oxygen": 7.444551591,
      "Dissolved total organic carbon": 3.496,
@@ -1033,7 +1033,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/23",
+     "record_date": "2022/7/23",
      "Chemical oxygen demand": 4.131958763,
      "dissolved oxygen": 8.220502901,
      "Dissolved total organic carbon": 2.184,
@@ -1045,7 +1045,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/24",
+     "record_date": "2022/7/24",
      "Chemical oxygen demand": 4.049162011,
      "dissolved oxygen": 4.818355641,
      "Dissolved total organic carbon": 4.186,
@@ -1057,7 +1057,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/25",
+     "record_date": "2022/7/25",
      "Chemical oxygen demand": 4.111234705,
      "dissolved oxygen": 9.787234043,
      "Dissolved total organic carbon": 2.628,
@@ -1069,7 +1069,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/26",
+     "record_date": "2022/7/26",
      "Chemical oxygen demand": 7.050228311,
      "dissolved oxygen": 8.532778356,
      "Dissolved total organic carbon": 4.326,
@@ -1081,7 +1081,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/27",
+     "record_date": "2022/7/27",
      "Chemical oxygen demand": 5.234567901,
      "dissolved oxygen": 10.03108808,
      "Dissolved total organic carbon": 3.889,
@@ -1093,7 +1093,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/28",
+     "record_date": "2022/7/28",
      "Chemical oxygen demand": 5.162738496,
      "dissolved oxygen": 7.68,
      "Dissolved total organic carbon": 4.277,
@@ -1105,7 +1105,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/29",
+     "record_date": "2022/7/29",
      "Chemical oxygen demand": 5.336263736,
      "dissolved oxygen": 11.80487805,
      "Dissolved total organic carbon": 4.441,
@@ -1117,7 +1117,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/30",
+     "record_date": "2022/7/30",
      "Chemical oxygen demand": 5.41001065,
      "dissolved oxygen": 5.055837563,
      "Dissolved total organic carbon": 5.246,
@@ -1129,7 +1129,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/7\/31",
+     "record_date": "2022/7/31",
      "Chemical oxygen demand": 6.136082474,
      "dissolved oxygen": 9.403292181,
      "Dissolved total organic carbon": 4.962,
@@ -1141,7 +1141,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/1",
+     "record_date": "2022/8/1",
      "Chemical oxygen demand": 4.407669021,
      "dissolved oxygen": 12.43576567,
      "Dissolved total organic carbon": 4.718,
@@ -1153,7 +1153,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/2",
+     "record_date": "2022/8/2",
      "Chemical oxygen demand": 4.576131687,
      "dissolved oxygen": 5.757575758,
      "Dissolved total organic carbon": 4.862,
@@ -1165,7 +1165,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/3",
+     "record_date": "2022/8/3",
      "Chemical oxygen demand": 4.024539877,
      "dissolved oxygen": 8.468292683,
      "Dissolved total organic carbon": 4.234,
@@ -1177,7 +1177,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/4",
+     "record_date": "2022/8/4",
      "Chemical oxygen demand": 4.240868707,
      "dissolved oxygen": 3.58,
      "Dissolved total organic carbon": 4.258,
@@ -1189,7 +1189,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/5",
+     "record_date": "2022/8/5",
      "Chemical oxygen demand": 3.595876289,
      "dissolved oxygen": 6.368715084,
      "Dissolved total organic carbon": 4.119,
@@ -1201,7 +1201,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/6",
+     "record_date": "2022/8/6",
      "Chemical oxygen demand": 5.28627451,
      "dissolved oxygen": 6.696035242,
      "Dissolved total organic carbon": 4.09,
@@ -1213,7 +1213,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/7",
+     "record_date": "2022/8/7",
      "Chemical oxygen demand": 4.135306554,
      "dissolved oxygen": 11.49301826,
      "Dissolved total organic carbon": 2.857,
@@ -1225,7 +1225,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/8",
+     "record_date": "2022/8/8",
      "Chemical oxygen demand": 5.234358431,
      "dissolved oxygen": 4.930232558,
      "Dissolved total organic carbon": 3.83,
@@ -1237,7 +1237,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/9",
+     "record_date": "2022/8/9",
      "Chemical oxygen demand": 6.25,
      "dissolved oxygen": 6.647727273,
      "Dissolved total organic carbon": 4.53,
@@ -1249,7 +1249,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/10",
+     "record_date": "2022/8/10",
      "Chemical oxygen demand": 5.079365079,
      "dissolved oxygen": 3.816046967,
      "Dissolved total organic carbon": 4.665,
@@ -1261,7 +1261,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/11",
+     "record_date": "2022/8/11",
      "Chemical oxygen demand": 6.90605428,
      "dissolved oxygen": 5.029239766,
      "Dissolved total organic carbon": 5.6,
@@ -1273,7 +1273,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/12",
+     "record_date": "2022/8/12",
      "Chemical oxygen demand": 4.669456067,
      "dissolved oxygen": 3.316378433,
      "Dissolved total organic carbon": 5,
@@ -1285,7 +1285,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/13",
+     "record_date": "2022/8/13",
      "Chemical oxygen demand": 4.958466454,
      "dissolved oxygen": 4.484484484,
      "Dissolved total organic carbon": 4.158,
@@ -1297,7 +1297,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/14",
+     "record_date": "2022/8/14",
      "Chemical oxygen demand": 5.519313305,
      "dissolved oxygen": 6.802443992,
      "Dissolved total organic carbon": 16.459,
@@ -1309,7 +1309,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/15",
+     "record_date": "2022/8/15",
      "Chemical oxygen demand": 5.239616613,
      "dissolved oxygen": 6.52,
      "Dissolved total organic carbon": 10.075,
@@ -1321,7 +1321,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/16",
+     "record_date": "2022/8/16",
      "Chemical oxygen demand": 5.021276596,
      "dissolved oxygen": 4.065708419,
      "Dissolved total organic carbon": 8.289,
@@ -1333,7 +1333,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/17",
+     "record_date": "2022/8/17",
      "Chemical oxygen demand": 6.205291005,
      "dissolved oxygen": 6.824457594,
      "Dissolved total organic carbon": 8.271,
@@ -1345,7 +1345,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/18",
+     "record_date": "2022/8/18",
      "Chemical oxygen demand": 7.336244541,
      "dissolved oxygen": 5.125725338,
      "Dissolved total organic carbon": 8.401,
@@ -1357,7 +1357,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/19",
+     "record_date": "2022/8/19",
      "Chemical oxygen demand": 7.063829787,
      "dissolved oxygen": 7.973231358,
      "Dissolved total organic carbon": 7.975,
@@ -1369,7 +1369,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/20",
+     "record_date": "2022/8/20",
      "Chemical oxygen demand": 9.066115702,
      "dissolved oxygen": 11.31552918,
      "Dissolved total organic carbon": 8.554,
@@ -1381,7 +1381,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/21",
+     "record_date": "2022/8/21",
      "Chemical oxygen demand": 6.495726496,
      "dissolved oxygen": 6.899902818,
      "Dissolved total organic carbon": 6.791,
@@ -1393,7 +1393,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/22",
+     "record_date": "2022/8/22",
      "Chemical oxygen demand": 5.204301075,
      "dissolved oxygen": 10.49792531,
      "Dissolved total organic carbon": 6.99,
@@ -1405,7 +1405,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/23",
+     "record_date": "2022/8/23",
      "Chemical oxygen demand": 4.679079956,
      "dissolved oxygen": 8.024691358,
      "Dissolved total organic carbon": 8.987,
@@ -1417,7 +1417,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/24",
+     "record_date": "2022/8/24",
      "Chemical oxygen demand": 5.475555556,
      "dissolved oxygen": 10.11627907,
      "Dissolved total organic carbon": 6.566,
@@ -1429,7 +1429,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/25",
+     "record_date": "2022/8/25",
      "Chemical oxygen demand": 5.399585921,
      "dissolved oxygen": 0.095602294,
      "Dissolved total organic carbon": 9.915,
@@ -1441,7 +1441,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/26",
+     "record_date": "2022/8/26",
      "Chemical oxygen demand": 4.719665272,
      "dissolved oxygen": 7.965451056,
      "Dissolved total organic carbon": 5.275,
@@ -1453,7 +1453,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/27",
+     "record_date": "2022/8/27",
      "Chemical oxygen demand": 6.607948443,
      "dissolved oxygen": 4.171428571,
      "Dissolved total organic carbon": 5.876,
@@ -1465,7 +1465,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/28",
+     "record_date": "2022/8/28",
      "Chemical oxygen demand": 5.74472808,
      "dissolved oxygen": 5.695238095,
      "Dissolved total organic carbon": 7.563,
@@ -1477,7 +1477,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/29",
+     "record_date": "2022/8/29",
      "Chemical oxygen demand": 4.550951848,
      "dissolved oxygen": 6.691800189,
      "Dissolved total organic carbon": 7.702,
@@ -1489,7 +1489,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/30",
+     "record_date": "2022/8/30",
      "Chemical oxygen demand": 6.94974359,
      "dissolved oxygen": 4.318181818,
      "Dissolved total organic carbon": 8.859,
@@ -1501,7 +1501,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/8\/31",
+     "record_date": "2022/8/31",
      "Chemical oxygen demand": 6.184455959,
      "dissolved oxygen": 7.54789272,
      "Dissolved total organic carbon": 4.323,
@@ -1513,7 +1513,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/1",
+     "record_date": "2022/9/1",
      "Chemical oxygen demand": 6.376811594,
      "dissolved oxygen": 12.76097561,
      "Dissolved total organic carbon": 4.924,
@@ -1525,7 +1525,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/2",
+     "record_date": "2022/9/2",
      "Chemical oxygen demand": 5.419354839,
      "dissolved oxygen": 6.005830904,
      "Dissolved total organic carbon": 6.632,
@@ -1537,7 +1537,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/3",
+     "record_date": "2022/9/3",
      "Chemical oxygen demand": 7.123173278,
      "dissolved oxygen": 10.73825503,
      "Dissolved total organic carbon": 8.194,
@@ -1549,7 +1549,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/4",
+     "record_date": "2022/9/4",
      "Chemical oxygen demand": 7.9,
      "dissolved oxygen": 7.274749722,
      "Dissolved total organic carbon": 7.404,
@@ -1561,7 +1561,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/5",
+     "record_date": "2022/9/5",
      "Chemical oxygen demand": 6.289825283,
      "dissolved oxygen": 7.056451613,
      "Dissolved total organic carbon": 3.922,
@@ -1573,7 +1573,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/6",
+     "record_date": "2022/9/6",
      "Chemical oxygen demand": 4.808290155,
      "dissolved oxygen": 11.36801541,
      "Dissolved total organic carbon": 3.734,
@@ -1585,7 +1585,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/7",
+     "record_date": "2022/9/7",
      "Chemical oxygen demand": 5.615062762,
      "dissolved oxygen": 3.31797235,
      "Dissolved total organic carbon": 4.938,
@@ -1597,7 +1597,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/8",
+     "record_date": "2022/9/8",
      "Chemical oxygen demand": 4.8,
      "dissolved oxygen": 8.019138756,
      "Dissolved total organic carbon": 7.119,
@@ -1609,7 +1609,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/9",
+     "record_date": "2022/9/9",
      "Chemical oxygen demand": 5.068322981,
      "dissolved oxygen": 5.194312796,
      "Dissolved total organic carbon": 5.415,
@@ -1621,7 +1621,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/10",
+     "record_date": "2022/9/10",
      "Chemical oxygen demand": 5.067497404,
      "dissolved oxygen": 6.630824373,
      "Dissolved total organic carbon": 5.48,
@@ -1633,7 +1633,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/11",
+     "record_date": "2022/9/11",
      "Chemical oxygen demand": 4.366632338,
      "dissolved oxygen": 6.802325581,
      "Dissolved total organic carbon": 4.903,
@@ -1645,7 +1645,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/12",
+     "record_date": "2022/9/12",
      "Chemical oxygen demand": 4.095733611,
      "dissolved oxygen": 5.997973658,
      "Dissolved total organic carbon": 4.107,
@@ -1657,7 +1657,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/13",
+     "record_date": "2022/9/13",
      "Chemical oxygen demand": 19.66565962,
      "dissolved oxygen": 12.34994914,
      "Dissolved total organic carbon": 4.996,
@@ -1669,7 +1669,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/14",
+     "record_date": "2022/9/14",
      "Chemical oxygen demand": 4.746720484,
      "dissolved oxygen": 12.50720461,
      "Dissolved total organic carbon": 2.256,
@@ -1681,7 +1681,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/15",
+     "record_date": "2022/9/15",
      "Chemical oxygen demand": 5.93220339,
      "dissolved oxygen": 10.63386944,
      "Dissolved total organic carbon": 4.068,
@@ -1693,7 +1693,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/16",
+     "record_date": "2022/9/16",
      "Chemical oxygen demand": 6.611957796,
      "dissolved oxygen": 9.328493648,
      "Dissolved total organic carbon": 3.959,
@@ -1705,7 +1705,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/17",
+     "record_date": "2022/9/17",
      "Chemical oxygen demand": 5.315436242,
      "dissolved oxygen": 7.585513078,
      "Dissolved total organic carbon": 5.03,
@@ -1717,7 +1717,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/18",
+     "record_date": "2022/9/18",
      "Chemical oxygen demand": 5.201877934,
      "dissolved oxygen": 9.6875,
      "Dissolved total organic carbon": 5.735,
@@ -1729,7 +1729,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/19",
+     "record_date": "2022/9/19",
      "Chemical oxygen demand": 5.250288351,
      "dissolved oxygen": 2.874870734,
      "Dissolved total organic carbon": 5.194,
@@ -1741,7 +1741,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/20",
+     "record_date": "2022/9/20",
      "Chemical oxygen demand": 4.229885057,
      "dissolved oxygen": 13.06042885,
      "Dissolved total organic carbon": 4.013,
@@ -1753,7 +1753,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/21",
+     "record_date": "2022/9/21",
      "Chemical oxygen demand": 4.199796126,
      "dissolved oxygen": 6.866537718,
      "Dissolved total organic carbon": 4.213,
@@ -1765,7 +1765,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/22",
+     "record_date": "2022/9/22",
      "Chemical oxygen demand": 3.39047619,
      "dissolved oxygen": 7.149404216,
      "Dissolved total organic carbon": 2.977,
@@ -1777,7 +1777,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/23",
+     "record_date": "2022/9/23",
      "Chemical oxygen demand": 3.856996936,
      "dissolved oxygen": 8.967551622,
      "Dissolved total organic carbon": 4.76,
@@ -1789,7 +1789,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/24",
+     "record_date": "2022/9/24",
      "Chemical oxygen demand": 3.670682731,
      "dissolved oxygen": 11.71153846,
      "Dissolved total organic carbon": 4.532,
@@ -1801,7 +1801,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/25",
+     "record_date": "2022/9/25",
      "Chemical oxygen demand": 4.1859545,
      "dissolved oxygen": 12.80834915,
      "Dissolved total organic carbon": 4.659,
@@ -1813,7 +1813,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/26",
+     "record_date": "2022/9/26",
      "Chemical oxygen demand": 4.413793103,
      "dissolved oxygen": 11.51743638,
      "Dissolved total organic carbon": 4.121,
@@ -1825,7 +1825,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/27",
+     "record_date": "2022/9/27",
      "Chemical oxygen demand": 5.988258317,
      "dissolved oxygen": 10.74626866,
      "Dissolved total organic carbon": 6.084,
@@ -1837,7 +1837,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/28",
+     "record_date": "2022/9/28",
      "Chemical oxygen demand": 4.304439746,
      "dissolved oxygen": 9.978947368,
      "Dissolved total organic carbon": 5.326,
@@ -1849,7 +1849,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/29",
+     "record_date": "2022/9/29",
      "Chemical oxygen demand": 6.51,
      "dissolved oxygen": 6.474820144,
      "Dissolved total organic carbon": 5.789,
@@ -1861,7 +1861,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/9\/30",
+     "record_date": "2022/9/30",
      "Chemical oxygen demand": 5.221505376,
      "dissolved oxygen": 6.922300706,
      "Dissolved total organic carbon": 5.743,
@@ -1873,7 +1873,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/1",
+     "record_date": "2022/10/1",
      "Chemical oxygen demand": 4.944849116,
      "dissolved oxygen": 6.09375,
      "Dissolved total organic carbon": 6.719,
@@ -1885,7 +1885,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/2",
+     "record_date": "2022/10/2",
      "Chemical oxygen demand": 4.731092437,
      "dissolved oxygen": 9.514563107,
      "Dissolved total organic carbon": 4.749,
@@ -1897,7 +1897,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/3",
+     "record_date": "2022/10/3",
      "Chemical oxygen demand": 5.56779661,
      "dissolved oxygen": 10.57407407,
      "Dissolved total organic carbon": 5.71,
@@ -1909,7 +1909,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/4",
+     "record_date": "2022/10/4",
      "Chemical oxygen demand": 4.029442692,
      "dissolved oxygen": 6.03204524,
      "Dissolved total organic carbon": 6.15,
@@ -1921,7 +1921,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/5",
+     "record_date": "2022/10/5",
      "Chemical oxygen demand": 3.655462185,
      "dissolved oxygen": 8.602941176,
      "Dissolved total organic carbon": 4.215,
@@ -1933,7 +1933,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/6",
+     "record_date": "2022/10/6",
      "Chemical oxygen demand": 3.257995736,
      "dissolved oxygen": 10.56117755,
      "Dissolved total organic carbon": 3.424,
@@ -1945,7 +1945,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/7",
+     "record_date": "2022/10/7",
      "Chemical oxygen demand": 3.211801897,
      "dissolved oxygen": 11.09859155,
      "Dissolved total organic carbon": 3.709,
@@ -1957,7 +1957,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/8",
+     "record_date": "2022/10/8",
      "Chemical oxygen demand": 6.212682927,
      "dissolved oxygen": 10.93132643,
      "Dissolved total organic carbon": 4.379,
@@ -1969,7 +1969,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/9",
+     "record_date": "2022/10/9",
      "Chemical oxygen demand": 15.8212766,
      "dissolved oxygen": 11.09859155,
      "Dissolved total organic carbon": 6.25,
@@ -1981,7 +1981,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/10",
+     "record_date": "2022/10/10",
      "Chemical oxygen demand": 4.982236155,
      "dissolved oxygen": 6.374650513,
      "Dissolved total organic carbon": 5.578,
@@ -1993,7 +1993,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/11",
+     "record_date": "2022/10/11",
      "Chemical oxygen demand": 4.062827225,
      "dissolved oxygen": 7.057728119,
      "Dissolved total organic carbon": 4.409,
@@ -2005,7 +2005,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/12",
+     "record_date": "2022/10/12",
      "Chemical oxygen demand": 4.36440678,
      "dissolved oxygen": 7.828518173,
      "Dissolved total organic carbon": 3.856,
@@ -2017,7 +2017,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/13",
+     "record_date": "2022/10/13",
      "Chemical oxygen demand": 3.928194298,
      "dissolved oxygen": 6.678932843,
      "Dissolved total organic carbon": 3.767,
@@ -2029,7 +2029,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/14",
+     "record_date": "2022/10/14",
      "Chemical oxygen demand": 4.157099698,
      "dissolved oxygen": 10.32608696,
      "Dissolved total organic carbon": 3.744,
@@ -2041,7 +2041,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/15",
+     "record_date": "2022/10/15",
      "Chemical oxygen demand": 4.435318275,
      "dissolved oxygen": 7.802955665,
      "Dissolved total organic carbon": 3.319,
@@ -2053,7 +2053,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/16",
+     "record_date": "2022/10/16",
      "Chemical oxygen demand": 3.573940021,
      "dissolved oxygen": 8.115942029,
      "Dissolved total organic carbon": 4.067,
@@ -2065,7 +2065,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/17",
+     "record_date": "2022/10/17",
      "Chemical oxygen demand": 3.912087912,
      "dissolved oxygen": 9.3,
      "Dissolved total organic carbon": 3.887,
@@ -2077,7 +2077,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/18",
+     "record_date": "2022/10/18",
      "Chemical oxygen demand": 5.839029768,
      "dissolved oxygen": 11.09161793,
      "Dissolved total organic carbon": 3.43,
@@ -2089,7 +2089,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/19",
+     "record_date": "2022/10/19",
      "Chemical oxygen demand": 7.818965517,
      "dissolved oxygen": 11.9798995,
      "Dissolved total organic carbon": 4.884,
@@ -2101,7 +2101,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/20",
+     "record_date": "2022/10/20",
      "Chemical oxygen demand": 5.864370291,
      "dissolved oxygen": 9.849246231,
      "Dissolved total organic carbon": 5.047,
@@ -2113,7 +2113,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/21",
+     "record_date": "2022/10/21",
      "Chemical oxygen demand": 5.497435897,
      "dissolved oxygen": 9.77412731,
      "Dissolved total organic carbon": 5.85,
@@ -2125,7 +2125,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/22",
+     "record_date": "2022/10/22",
      "Chemical oxygen demand": 5.253475936,
      "dissolved oxygen": 8.875379939,
      "Dissolved total organic carbon": 5.362,
@@ -2137,7 +2137,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/23",
+     "record_date": "2022/10/23",
      "Chemical oxygen demand": 4.78125,
      "dissolved oxygen": 7.575757576,
      "Dissolved total organic carbon": 6.372,
@@ -2149,7 +2149,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/24",
+     "record_date": "2022/10/24",
      "Chemical oxygen demand": 5.885964912,
      "dissolved oxygen": 7.856468366,
      "Dissolved total organic carbon": 5,
@@ -2161,7 +2161,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/25",
+     "record_date": "2022/10/25",
      "Chemical oxygen demand": 3.551967709,
      "dissolved oxygen": 7.780872795,
      "Dissolved total organic carbon": 4.233,
@@ -2173,7 +2173,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/26",
+     "record_date": "2022/10/26",
      "Chemical oxygen demand": 4.200614125,
      "dissolved oxygen": 7.628494139,
      "Dissolved total organic carbon": 4.104,
@@ -2185,7 +2185,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/27",
+     "record_date": "2022/10/27",
      "Chemical oxygen demand": 3.896373057,
      "dissolved oxygen": 8.125,
      "Dissolved total organic carbon": 4.547,
@@ -2197,7 +2197,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/28",
+     "record_date": "2022/10/28",
      "Chemical oxygen demand": 4.222222222,
      "dissolved oxygen": 7.44140625,
      "Dissolved total organic carbon": 4.793,
@@ -2209,7 +2209,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/29",
+     "record_date": "2022/10/29",
      "Chemical oxygen demand": 3.894179894,
      "dissolved oxygen": 9.17740337,
      "Dissolved total organic carbon": 5.827,
@@ -2221,7 +2221,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/30",
+     "record_date": "2022/10/30",
      "Chemical oxygen demand": 5.60441989,
      "dissolved oxygen": 10.92184369,
      "Dissolved total organic carbon": 4.653,
@@ -2233,7 +2233,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/10\/31",
+     "record_date": "2022/10/31",
      "Chemical oxygen demand": 5.313304721,
      "dissolved oxygen": 11.28691983,
      "Dissolved total organic carbon": 4.575,
@@ -2245,7 +2245,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/1",
+     "record_date": "2022/11/1",
      "Chemical oxygen demand": 5.46518668,
      "dissolved oxygen": 11.51322751,
      "Dissolved total organic carbon": 6.238,
@@ -2257,7 +2257,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/2",
+     "record_date": "2022/11/2",
      "Chemical oxygen demand": 6.713567839,
      "dissolved oxygen": 13.22033898,
      "Dissolved total organic carbon": 6.263,
@@ -2269,7 +2269,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/3",
+     "record_date": "2022/11/3",
      "Chemical oxygen demand": 6.766246363,
      "dissolved oxygen": 11.85492228,
      "Dissolved total organic carbon": 5.949,
@@ -2281,7 +2281,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/4",
+     "record_date": "2022/11/4",
      "Chemical oxygen demand": 4.004077472,
      "dissolved oxygen": 7.438016529,
      "Dissolved total organic carbon": 5.252,
@@ -2293,7 +2293,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/5",
+     "record_date": "2022/11/5",
      "Chemical oxygen demand": 4.225772098,
      "dissolved oxygen": 7.843137255,
      "Dissolved total organic carbon": 4.912,
@@ -2305,7 +2305,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/6",
+     "record_date": "2022/11/6",
      "Chemical oxygen demand": 4.423326134,
      "dissolved oxygen": 7.552031715,
      "Dissolved total organic carbon": 4.485,
@@ -2317,7 +2317,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/7",
+     "record_date": "2022/11/7",
      "Chemical oxygen demand": 3.858216971,
      "dissolved oxygen": 5.400192864,
      "Dissolved total organic carbon": 3.249,
@@ -2329,7 +2329,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/8",
+     "record_date": "2022/11/8",
      "Chemical oxygen demand": 4.296907216,
      "dissolved oxygen": 8.568665377,
      "Dissolved total organic carbon": 3.551,
@@ -2341,7 +2341,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/9",
+     "record_date": "2022/11/9",
      "Chemical oxygen demand": 3.664804469,
      "dissolved oxygen": 9.388145315,
      "Dissolved total organic carbon": 4.26,
@@ -2353,7 +2353,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/10",
+     "record_date": "2022/11/10",
      "Chemical oxygen demand": 4.271412681,
      "dissolved oxygen": 8.872340426,
      "Dissolved total organic carbon": 2.221,
@@ -2365,7 +2365,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/11",
+     "record_date": "2022/11/11",
      "Chemical oxygen demand": 3.835616438,
      "dissolved oxygen": 10.01040583,
      "Dissolved total organic carbon": 3.845,
@@ -2377,7 +2377,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/12",
+     "record_date": "2022/11/12",
      "Chemical oxygen demand": 8.35016835,
      "dissolved oxygen": 13.16062176,
      "Dissolved total organic carbon": 4.172,
@@ -2389,7 +2389,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/13",
+     "record_date": "2022/11/13",
      "Chemical oxygen demand": 6.392817059,
      "dissolved oxygen": 11.22,
      "Dissolved total organic carbon": 4.603,
@@ -2401,7 +2401,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/14",
+     "record_date": "2022/11/14",
      "Chemical oxygen demand": 4.791208791,
      "dissolved oxygen": 11.12195122,
      "Dissolved total organic carbon": 4.359,
@@ -2413,7 +2413,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/15",
+     "record_date": "2022/11/15",
      "Chemical oxygen demand": 4.932907348,
      "dissolved oxygen": 10.76142132,
      "Dissolved total organic carbon": 5.157,
@@ -2425,7 +2425,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/16",
+     "record_date": "2022/11/16",
      "Chemical oxygen demand": 5.443298969,
      "dissolved oxygen": 8.744855967,
      "Dissolved total organic carbon": 5.293,
@@ -2437,7 +2437,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/17",
+     "record_date": "2022/11/17",
      "Chemical oxygen demand": 4.221997982,
      "dissolved oxygen": 4.316546763,
      "Dissolved total organic carbon": 4.621,
@@ -2449,7 +2449,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/18",
+     "record_date": "2022/11/18",
      "Chemical oxygen demand": 4.271604938,
      "dissolved oxygen": 4.767676768,
      "Dissolved total organic carbon": 4.932,
@@ -2461,7 +2461,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/19",
+     "record_date": "2022/11/19",
      "Chemical oxygen demand": 3.893660532,
      "dissolved oxygen": 5.912195122,
      "Dissolved total organic carbon": 4.397,
@@ -2473,7 +2473,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/20",
+     "record_date": "2022/11/20",
      "Chemical oxygen demand": 3.830207305,
      "dissolved oxygen": 4.3,
      "Dissolved total organic carbon": 3.951,
@@ -2485,7 +2485,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/21",
+     "record_date": "2022/11/21",
      "Chemical oxygen demand": 3.835051546,
      "dissolved oxygen": 7.597765363,
      "Dissolved total organic carbon": 4.263,
@@ -2497,7 +2497,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/22",
+     "record_date": "2022/11/22",
      "Chemical oxygen demand": 17.06840959,
      "dissolved oxygen": 8.348017621,
      "Dissolved total organic carbon": 4.486,
@@ -2509,7 +2509,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/23",
+     "record_date": "2022/11/23",
      "Chemical oxygen demand": 4.541226216,
      "dissolved oxygen": 7.798066595,
      "Dissolved total organic carbon": 3.537,
@@ -2521,7 +2521,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/24",
+     "record_date": "2022/11/24",
      "Chemical oxygen demand": 4.65747614,
      "dissolved oxygen": 11.36744186,
      "Dissolved total organic carbon": 3.674,
@@ -2533,7 +2533,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/25",
+     "record_date": "2022/11/25",
      "Chemical oxygen demand": 8.075,
      "dissolved oxygen": 10.87121212,
      "Dissolved total organic carbon": 4.698,
@@ -2545,7 +2545,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/26",
+     "record_date": "2022/11/26",
      "Chemical oxygen demand": 4.859259259,
      "dissolved oxygen": 10.33268102,
      "Dissolved total organic carbon": 5.048,
@@ -2557,7 +2557,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/27",
+     "record_date": "2022/11/27",
      "Chemical oxygen demand": 7.348643006,
      "dissolved oxygen": 8.693957115,
      "Dissolved total organic carbon": 5.861,
@@ -2569,7 +2569,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/28",
+     "record_date": "2022/11/28",
      "Chemical oxygen demand": 4.518828452,
      "dissolved oxygen": 8.056968464,
      "Dissolved total organic carbon": 5.087,
@@ -2581,7 +2581,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/29",
+     "record_date": "2022/11/29",
      "Chemical oxygen demand": 4.694355698,
      "dissolved oxygen": 8.308308308,
      "Dissolved total organic carbon": 4.222,
@@ -2593,7 +2593,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/11\/30",
+     "record_date": "2022/11/30",
      "Chemical oxygen demand": 5.064377682,
      "dissolved oxygen": 7.515274949,
      "Dissolved total organic carbon": 12.967,
@@ -2605,7 +2605,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/1",
+     "record_date": "2022/12/1",
      "Chemical oxygen demand": 4.788072417,
      "dissolved oxygen": 5.51,
      "Dissolved total organic carbon": 10.859,
@@ -2617,7 +2617,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/2",
+     "record_date": "2022/12/2",
      "Chemical oxygen demand": 4.953191489,
      "dissolved oxygen": 8.439425051,
      "Dissolved total organic carbon": 7.759,
@@ -2629,7 +2629,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/3",
+     "record_date": "2022/12/3",
      "Chemical oxygen demand": 7.161904762,
      "dissolved oxygen": 7.948717949,
      "Dissolved total organic carbon": 7.664,
@@ -2641,7 +2641,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/4",
+     "record_date": "2022/12/4",
      "Chemical oxygen demand": 7.152838428,
      "dissolved oxygen": 9.883945841,
      "Dissolved total organic carbon": 9.224,
@@ -2653,7 +2653,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/5",
+     "record_date": "2022/12/5",
      "Chemical oxygen demand": 6.723404255,
      "dissolved oxygen": 10.7456979,
      "Dissolved total organic carbon": 6.459,
@@ -2665,7 +2665,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/6",
+     "record_date": "2022/12/6",
      "Chemical oxygen demand": 6.338842975,
      "dissolved oxygen": 11.96834817,
      "Dissolved total organic carbon": 8.542,
@@ -2677,7 +2677,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/7",
+     "record_date": "2022/12/7",
      "Chemical oxygen demand": 4.948717949,
      "dissolved oxygen": 12.22546161,
      "Dissolved total organic carbon": 5.055,
@@ -2689,7 +2689,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/8",
+     "record_date": "2022/12/8",
      "Chemical oxygen demand": 6.374193548,
      "dissolved oxygen": 9.854771784,
      "Dissolved total organic carbon": 9.552,
@@ -2701,7 +2701,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/9",
+     "record_date": "2022/12/9",
      "Chemical oxygen demand": 5.012048193,
      "dissolved oxygen": 9.465020576,
      "Dissolved total organic carbon": 8.591,
@@ -2713,7 +2713,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/10",
+     "record_date": "2022/12/10",
      "Chemical oxygen demand": 5.137777778,
      "dissolved oxygen": 8.352713178,
      "Dissolved total organic carbon": 6.295,
@@ -2725,7 +2725,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/11",
+     "record_date": "2022/12/11",
      "Chemical oxygen demand": 4.637681159,
      "dissolved oxygen": 7.304015296,
      "Dissolved total organic carbon": 8.504,
@@ -2737,7 +2737,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/12",
+     "record_date": "2022/12/12",
      "Chemical oxygen demand": 4.719665272,
      "dissolved oxygen": 6.928982726,
      "Dissolved total organic carbon": 4.867,
@@ -2749,7 +2749,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/13",
+     "record_date": "2022/12/13",
      "Chemical oxygen demand": 6.487647691,
      "dissolved oxygen": 7.333333333,
      "Dissolved total organic carbon": 7.166,
@@ -2761,7 +2761,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/14",
+     "record_date": "2022/12/14",
      "Chemical oxygen demand": 5.531631521,
      "dissolved oxygen": 7.219047619,
      "Dissolved total organic carbon": 7.075,
@@ -2773,7 +2773,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/15",
+     "record_date": "2022/12/15",
      "Chemical oxygen demand": 4.559910414,
      "dissolved oxygen": 8.35061263,
      "Dissolved total organic carbon": 5.642,
@@ -2785,7 +2785,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/16",
+     "record_date": "2022/12/16",
      "Chemical oxygen demand": 6.49025641,
      "dissolved oxygen": 9.924242424,
      "Dissolved total organic carbon": 3.398,
@@ -2797,7 +2797,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/17",
+     "record_date": "2022/12/17",
      "Chemical oxygen demand": 4.642487047,
      "dissolved oxygen": 10.82375479,
      "Dissolved total organic carbon": 3.797,
@@ -2809,7 +2809,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/18",
+     "record_date": "2022/12/18",
      "Chemical oxygen demand": 6.724637681,
      "dissolved oxygen": 12.7804878,
      "Dissolved total organic carbon": 5.182,
@@ -2821,7 +2821,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/19",
+     "record_date": "2022/12/19",
      "Chemical oxygen demand": 9.065556712,
      "dissolved oxygen": 10.08746356,
      "Dissolved total organic carbon": 5.692,
@@ -2833,7 +2833,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/20",
+     "record_date": "2022/12/20",
      "Chemical oxygen demand": 5.903966597,
      "dissolved oxygen": 10.51454139,
      "Dissolved total organic carbon": 7.331,
@@ -2845,7 +2845,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/21",
+     "record_date": "2022/12/21",
      "Chemical oxygen demand": 6.6,
      "dissolved oxygen": 8.476084538,
      "Dissolved total organic carbon": 7.818,
@@ -2857,7 +2857,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/22",
+     "record_date": "2022/12/22",
      "Chemical oxygen demand": 5.854059609,
      "dissolved oxygen": 7.661290323,
      "Dissolved total organic carbon": 4.756,
@@ -2869,7 +2869,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/23",
+     "record_date": "2022/12/23",
      "Chemical oxygen demand": 5.554404145,
      "dissolved oxygen": 7.244701349,
      "Dissolved total organic carbon": 3.256,
@@ -2881,7 +2881,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/24",
+     "record_date": "2022/12/24",
      "Chemical oxygen demand": 5.866108787,
      "dissolved oxygen": 6.175115207,
      "Dissolved total organic carbon": 7.511,
@@ -2893,7 +2893,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/25",
+     "record_date": "2022/12/25",
      "Chemical oxygen demand": 4.91005291,
      "dissolved oxygen": 6.909090909,
      "Dissolved total organic carbon": 5.578,
@@ -2905,7 +2905,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/26",
+     "record_date": "2022/12/26",
      "Chemical oxygen demand": 4.753623188,
      "dissolved oxygen": 7.014218009,
      "Dissolved total organic carbon": 5.402,
@@ -2917,7 +2917,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/27",
+     "record_date": "2022/12/27",
      "Chemical oxygen demand": 4.436137072,
      "dissolved oxygen": 9.229390681,
      "Dissolved total organic carbon": 4.871,
@@ -2929,7 +2929,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/28",
+     "record_date": "2022/12/28",
      "Chemical oxygen demand": 4.58084449,
      "dissolved oxygen": 11.3372093,
      "Dissolved total organic carbon": 4.898,
@@ -2941,7 +2941,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/29",
+     "record_date": "2022/12/29",
      "Chemical oxygen demand": 3.779396462,
      "dissolved oxygen": 10.53698075,
      "Dissolved total organic carbon": 4.151,
@@ -2953,7 +2953,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/30",
+     "record_date": "2022/12/30",
      "Chemical oxygen demand": 13.67170191,
      "dissolved oxygen": 12.32960326,
      "Dissolved total organic carbon": 4.552,
@@ -2965,7 +2965,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2022\/12\/31",
+     "record_date": "2022/12/31",
      "Chemical oxygen demand": 5.521695257,
      "dissolved oxygen": 12.50720461,
      "Dissolved total organic carbon": 2.59,
@@ -2977,7 +2977,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/1",
+     "record_date": "2023/1/1",
      "Chemical oxygen demand": 5.771186441,
      "dissolved oxygen": 10.50141911,
      "Dissolved total organic carbon": 3.981,
@@ -2989,7 +2989,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/2",
+     "record_date": "2023/1/2",
      "Chemical oxygen demand": 7.212192263,
      "dissolved oxygen": 9.292196007,
      "Dissolved total organic carbon": 4.123,
@@ -3001,7 +3001,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/3",
+     "record_date": "2023/1/3",
      "Chemical oxygen demand": 4.93064877,
      "dissolved oxygen": 8.068410463,
      "Dissolved total organic carbon": 4.837,
@@ -3013,7 +3013,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/4",
+     "record_date": "2023/1/4",
      "Chemical oxygen demand": 5.17370892,
      "dissolved oxygen": 8.0625,
      "Dissolved total organic carbon": 5.66,
@@ -3025,7 +3025,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/5",
+     "record_date": "2023/1/5",
      "Chemical oxygen demand": 5.287197232,
      "dissolved oxygen": 7.114788004,
      "Dissolved total organic carbon": 5.582,
@@ -3037,7 +3037,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/6",
+     "record_date": "2023/1/6",
      "Chemical oxygen demand": 4.708045977,
      "dissolved oxygen": 7.621832359,
      "Dissolved total organic carbon": 3.811,
@@ -3049,7 +3049,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/7",
+     "record_date": "2023/1/7",
      "Chemical oxygen demand": 4.55861366,
      "dissolved oxygen": 7.756286267,
      "Dissolved total organic carbon": 4.326,
@@ -3061,7 +3061,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/8",
+     "record_date": "2023/1/8",
      "Chemical oxygen demand": 3.573333333,
      "dissolved oxygen": 7.571035747,
      "Dissolved total organic carbon": 3.169,
@@ -3073,7 +3073,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/9",
+     "record_date": "2023/1/9",
      "Chemical oxygen demand": 3.873340143,
      "dissolved oxygen": 9.223205506,
      "Dissolved total organic carbon": 4.767,
@@ -3085,7 +3085,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/10",
+     "record_date": "2023/1/10",
      "Chemical oxygen demand": 3.453815261,
      "dissolved oxygen": 11.57692308,
      "Dissolved total organic carbon": 4.213,
@@ -3097,7 +3097,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/11",
+     "record_date": "2023/1/11",
      "Chemical oxygen demand": 3.196834817,
      "dissolved oxygen": 13.09297913,
      "Dissolved total organic carbon": 4.444,
@@ -3109,7 +3109,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/12",
+     "record_date": "2023/1/12",
      "Chemical oxygen demand": 5.565922921,
      "dissolved oxygen": 12.55419416,
      "Dissolved total organic carbon": 4.314,
@@ -3121,7 +3121,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/13",
+     "record_date": "2023/1/13",
      "Chemical oxygen demand": 5.659491194,
      "dissolved oxygen": 10.61833689,
      "Dissolved total organic carbon": 5.551,
@@ -3133,7 +3133,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/14",
+     "record_date": "2023/1/14",
      "Chemical oxygen demand": 7.137420719,
      "dissolved oxygen": 9.305263158,
      "Dissolved total organic carbon": 5.467,
@@ -3145,7 +3145,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/15",
+     "record_date": "2023/1/15",
      "Chemical oxygen demand": 7.09,
      "dissolved oxygen": 7.728674203,
      "Dissolved total organic carbon": 5.776,
@@ -3157,7 +3157,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/16",
+     "record_date": "2023/1/16",
      "Chemical oxygen demand": 5.479569892,
      "dissolved oxygen": 7.487386478,
      "Dissolved total organic carbon": 5.714,
@@ -3169,7 +3169,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/17",
+     "record_date": "2023/1/17",
      "Chemical oxygen demand": 4.844953174,
      "dissolved oxygen": 6.953125,
      "Dissolved total organic carbon": 6.568,
@@ -3181,7 +3181,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/18",
+     "record_date": "2023/1/18",
      "Chemical oxygen demand": 4.899159664,
      "dissolved oxygen": 7.669902913,
      "Dissolved total organic carbon": 4.762,
@@ -3193,7 +3193,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/19",
+     "record_date": "2023/1/19",
      "Chemical oxygen demand": 5.728813559,
      "dissolved oxygen": 7.222222222,
      "Dissolved total organic carbon": 5.934,
@@ -3205,7 +3205,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/20",
+     "record_date": "2023/1/20",
      "Chemical oxygen demand": 3.953732913,
      "dissolved oxygen": 8.124410933,
      "Dissolved total organic carbon": 5.133,
@@ -3217,7 +3217,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/21",
+     "record_date": "2023/1/21",
      "Chemical oxygen demand": 3.672268908,
      "dissolved oxygen": 9.650735294,
      "Dissolved total organic carbon": 4.119,
@@ -3229,7 +3229,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/22",
+     "record_date": "2023/1/22",
      "Chemical oxygen demand": 3.28358209,
      "dissolved oxygen": 10.74517019,
      "Dissolved total organic carbon": 3.477,
@@ -3241,7 +3241,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/23",
+     "record_date": "2023/1/23",
      "Chemical oxygen demand": 4.12223393,
      "dissolved oxygen": 11.19248826,
      "Dissolved total organic carbon": 3.765,
@@ -3253,7 +3253,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/24",
+     "record_date": "2023/1/24",
      "Chemical oxygen demand": 7.086829268,
      "dissolved oxygen": 11.87206021,
      "Dissolved total organic carbon": 4.656,
@@ -3265,7 +3265,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/25",
+     "record_date": "2023/1/25",
      "Chemical oxygen demand": 5.2,
      "dissolved oxygen": 11.19248826,
      "Dissolved total organic carbon": 4.003,
@@ -3277,7 +3277,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/26",
+     "record_date": "2023/1/26",
      "Chemical oxygen demand": 5.492163009,
      "dissolved oxygen": 8.406337372,
      "Dissolved total organic carbon": 5.757,
@@ -3289,7 +3289,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/27",
+     "record_date": "2023/1/27",
      "Chemical oxygen demand": 4.238743455,
      "dissolved oxygen": 7.355679702,
      "Dissolved total organic carbon": 5.115,
@@ -3301,7 +3301,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/28",
+     "record_date": "2023/1/28",
      "Chemical oxygen demand": 7.822033898,
      "dissolved oxygen": 8.797763281,
      "Dissolved total organic carbon": 3.63,
@@ -3313,7 +3313,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/29",
+     "record_date": "2023/1/29",
      "Chemical oxygen demand": 3.928194298,
      "dissolved oxygen": 6.807727691,
      "Dissolved total organic carbon": 3.553,
@@ -3325,7 +3325,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/30",
+     "record_date": "2023/1/30",
      "Chemical oxygen demand": 4.068479355,
      "dissolved oxygen": 7.608695652,
      "Dissolved total organic carbon": 3.478,
@@ -3337,7 +3337,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/1\/31",
+     "record_date": "2023/1/31",
      "Chemical oxygen demand": 5.190965092,
      "dissolved oxygen": 11.23152709,
      "Dissolved total organic carbon": 3.332,
@@ -3349,7 +3349,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/1",
+     "record_date": "2023/2/1",
      "Chemical oxygen demand": 3.433298862,
      "dissolved oxygen": 8.077294686,
      "Dissolved total organic carbon": 4.174,
@@ -3361,7 +3361,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/2",
+     "record_date": "2023/2/2",
      "Chemical oxygen demand": 3.428571429,
      "dissolved oxygen": 10,
      "Dissolved total organic carbon": 3.386,
@@ -3373,7 +3373,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/3",
+     "record_date": "2023/2/3",
      "Chemical oxygen demand": 7.964718853,
      "dissolved oxygen": 11.28654971,
      "Dissolved total organic carbon": 3.55,
@@ -3385,7 +3385,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/4",
+     "record_date": "2023/2/4",
      "Chemical oxygen demand": 6.870689655,
      "dissolved oxygen": 12.0201005,
      "Dissolved total organic carbon": 4.367,
@@ -3397,7 +3397,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/5",
+     "record_date": "2023/2/5",
      "Chemical oxygen demand": 5.614639397,
      "dissolved oxygen": 10.45226131,
      "Dissolved total organic carbon": 4.885,
@@ -3409,7 +3409,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/6",
+     "record_date": "2023/2/6",
      "Chemical oxygen demand": 11.61846154,
      "dissolved oxygen": 9.568788501,
      "Dissolved total organic carbon": 6.712,
@@ -3421,7 +3421,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/7",
+     "record_date": "2023/2/7",
      "Chemical oxygen demand": 4.988235294,
      "dissolved oxygen": 8.895643364,
      "Dissolved total organic carbon": 5.597,
@@ -3433,7 +3433,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/8",
+     "record_date": "2023/2/8",
      "Chemical oxygen demand": 6.0078125,
      "dissolved oxygen": 7.575757576,
      "Dissolved total organic carbon": 6.116,
@@ -3445,7 +3445,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/9",
+     "record_date": "2023/2/9",
      "Chemical oxygen demand": 4.701754386,
      "dissolved oxygen": 8.309726157,
      "Dissolved total organic carbon": 5.594,
@@ -3457,7 +3457,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/10",
+     "record_date": "2023/2/10",
      "Chemical oxygen demand": 3.640766902,
      "dissolved oxygen": 7.242339833,
      "Dissolved total organic carbon": 4.172,
@@ -3469,7 +3469,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/11",
+     "record_date": "2023/2/11",
      "Chemical oxygen demand": 4.470829069,
      "dissolved oxygen": 8.097385032,
      "Dissolved total organic carbon": 4.101,
@@ -3481,7 +3481,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/12",
+     "record_date": "2023/2/12",
      "Chemical oxygen demand": 4.23626943,
      "dissolved oxygen": 7.2265625,
      "Dissolved total organic carbon": 4.547,
@@ -3493,7 +3493,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/13",
+     "record_date": "2023/2/13",
      "Chemical oxygen demand": 5.342222222,
      "dissolved oxygen": 8.2421875,
      "Dissolved total organic carbon": 4.969,
@@ -3505,7 +3505,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/14",
+     "record_date": "2023/2/14",
      "Chemical oxygen demand": 4.19047619,
      "dissolved oxygen": 9.335976214,
      "Dissolved total organic carbon": 5.469,
@@ -3517,7 +3517,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/15",
+     "record_date": "2023/2/15",
      "Chemical oxygen demand": 4.331491713,
      "dissolved oxygen": 10.88176353,
      "Dissolved total organic carbon": 4.852,
@@ -3529,7 +3529,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/16",
+     "record_date": "2023/2/16",
      "Chemical oxygen demand": 6.051502146,
      "dissolved oxygen": 11.98312236,
      "Dissolved total organic carbon": 5.405,
@@ -3541,7 +3541,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/17",
+     "record_date": "2023/2/17",
      "Chemical oxygen demand": 5.352169526,
      "dissolved oxygen": 12,
      "Dissolved total organic carbon": 6.095,
@@ -3553,7 +3553,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/18",
+     "record_date": "2023/2/18",
      "Chemical oxygen demand": 4.912562814,
      "dissolved oxygen": 11.18644068,
      "Dissolved total organic carbon": 5.494,
@@ -3565,7 +3565,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/19",
+     "record_date": "2023/2/19",
      "Chemical oxygen demand": 6.06013579,
      "dissolved oxygen": 9.93,
      "Dissolved total organic carbon": 5.691,
@@ -3577,7 +3577,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/20",
+     "record_date": "2023/2/20",
      "Chemical oxygen demand": 6.287461774,
      "dissolved oxygen": 9.690082645,
      "Dissolved total organic carbon": 5.672,
@@ -3589,7 +3589,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/21",
+     "record_date": "2023/2/21",
      "Chemical oxygen demand": 5.478168264,
      "dissolved oxygen": 8.359133127,
      "Dissolved total organic carbon": 4.871,
@@ -3601,7 +3601,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/22",
+     "record_date": "2023/2/22",
      "Chemical oxygen demand": 4.345572354,
      "dissolved oxygen": 8.404360753,
      "Dissolved total organic carbon": 4.641,
@@ -3613,7 +3613,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/23",
+     "record_date": "2023/2/23",
      "Chemical oxygen demand": 4.837808808,
      "dissolved oxygen": 7.830279653,
      "Dissolved total organic carbon": 3.753,
@@ -3625,7 +3625,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/24",
+     "record_date": "2023/2/24",
      "Chemical oxygen demand": 4.230927835,
      "dissolved oxygen": 7.678916828,
      "Dissolved total organic carbon": 3.109,
@@ -3637,7 +3637,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/25",
+     "record_date": "2023/2/25",
      "Chemical oxygen demand": 3.664804469,
      "dissolved oxygen": 8.126195029,
      "Dissolved total organic carbon": 3.786,
@@ -3649,7 +3649,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/26",
+     "record_date": "2023/2/26",
      "Chemical oxygen demand": 5.526140156,
      "dissolved oxygen": 9.872340426,
      "Dissolved total organic carbon": 3.904,
@@ -3661,7 +3661,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/27",
+     "record_date": "2023/2/27",
      "Chemical oxygen demand": 3.634703196,
      "dissolved oxygen": 11.00936524,
      "Dissolved total organic carbon": 3.429,
@@ -3673,7 +3673,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/2\/28",
+     "record_date": "2023/2/28",
      "Chemical oxygen demand": 7.829405163,
      "dissolved oxygen": 12.14507772,
      "Dissolved total organic carbon": 4.329,
@@ -3685,7 +3685,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/1",
+     "record_date": "2023/3/1",
      "Chemical oxygen demand": 5.288439955,
      "dissolved oxygen": 12.46,
      "Dissolved total organic carbon": 4.285,
@@ -3697,7 +3697,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/2",
+     "record_date": "2023/3/2",
      "Chemical oxygen demand": 6.083516484,
      "dissolved oxygen": 11.5902439,
      "Dissolved total organic carbon": 5.166,
@@ -3709,7 +3709,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/3",
+     "record_date": "2023/3/3",
      "Chemical oxygen demand": 5.418530351,
      "dissolved oxygen": 10.07106599,
      "Dissolved total organic carbon": 5.392,
@@ -3721,7 +3721,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/4",
+     "record_date": "2023/3/4",
      "Chemical oxygen demand": 4.948453608,
      "dissolved oxygen": 8.580246914,
      "Dissolved total organic carbon": 4.879,
@@ -3733,7 +3733,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/5",
+     "record_date": "2023/3/5",
      "Chemical oxygen demand": 4.682139253,
      "dissolved oxygen": 6.659815005,
      "Dissolved total organic carbon": 4.458,
@@ -3745,7 +3745,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/6",
+     "record_date": "2023/3/6",
      "Chemical oxygen demand": 4.222222222,
      "dissolved oxygen": 10.82828283,
      "Dissolved total organic carbon": 4.7,
@@ -3757,7 +3757,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/7",
+     "record_date": "2023/3/7",
      "Chemical oxygen demand": 4.196319018,
      "dissolved oxygen": 4.975609756,
      "Dissolved total organic carbon": 4.141,
@@ -3769,7 +3769,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/8",
+     "record_date": "2023/3/8",
      "Chemical oxygen demand": 4.793682132,
      "dissolved oxygen": 5.18,
      "Dissolved total organic carbon": 5.564,
@@ -3781,7 +3781,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/9",
+     "record_date": "2023/3/9",
      "Chemical oxygen demand": 4.362886598,
      "dissolved oxygen": 4.804469274,
      "Dissolved total organic carbon": 4.38,
@@ -3793,7 +3793,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/10",
+     "record_date": "2023/3/10",
      "Chemical oxygen demand": 3.764705882,
      "dissolved oxygen": 6.740088106,
      "Dissolved total organic carbon": 3.697,
@@ -3805,7 +3805,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/11",
+     "record_date": "2023/3/11",
      "Chemical oxygen demand": 5.725158562,
      "dissolved oxygen": 11.3641246,
      "Dissolved total organic carbon": 3.901,
@@ -3817,7 +3817,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/12",
+     "record_date": "2023/3/12",
      "Chemical oxygen demand": 5.811240721,
      "dissolved oxygen": 11.14418605,
      "Dissolved total organic carbon": 4.06,
@@ -3829,7 +3829,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/13",
+     "record_date": "2023/3/13",
      "Chemical oxygen demand": 5.25,
      "dissolved oxygen": 11.07954545,
      "Dissolved total organic carbon": 4.219,
@@ -3841,7 +3841,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/14",
+     "record_date": "2023/3/14",
      "Chemical oxygen demand": 7.195767196,
      "dissolved oxygen": 10.56751468,
      "Dissolved total organic carbon": 6.169,
@@ -3853,7 +3853,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/15",
+     "record_date": "2023/3/15",
      "Chemical oxygen demand": 7.657620042,
      "dissolved oxygen": 8.65497076,
      "Dissolved total organic carbon": 5.833,
@@ -3865,7 +3865,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/16",
+     "record_date": "2023/3/16",
      "Chemical oxygen demand": 6.554414784,
      "dissolved oxygen": 8.138351984,
      "Dissolved total organic carbon": 5.857,
@@ -3877,7 +3877,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/17",
+     "record_date": "2023/3/17",
      "Chemical oxygen demand": 4.438764643,
      "dissolved oxygen": 8.428428428,
      "Dissolved total organic carbon": 4.234,
@@ -3889,7 +3889,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/18",
+     "record_date": "2023/3/18",
      "Chemical oxygen demand": 5.13304721,
      "dissolved oxygen": 6.965376782,
      "Dissolved total organic carbon": 12.943,
@@ -3901,7 +3901,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/19",
+     "record_date": "2023/3/19",
      "Chemical oxygen demand": 4.796592119,
      "dissolved oxygen": 5.43,
      "Dissolved total organic carbon": 8.501,
@@ -3913,7 +3913,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/20",
+     "record_date": "2023/3/20",
      "Chemical oxygen demand": 4.978723404,
      "dissolved oxygen": 7.802874743,
      "Dissolved total organic carbon": 8.114,
@@ -3925,7 +3925,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/21",
+     "record_date": "2023/3/21",
      "Chemical oxygen demand": 5.578835979,
      "dissolved oxygen": 8.067061144,
      "Dissolved total organic carbon": 8.118,
@@ -3937,7 +3937,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/22",
+     "record_date": "2023/3/22",
      "Chemical oxygen demand": 6.104803493,
      "dissolved oxygen": 10.36750484,
      "Dissolved total organic carbon": 8.627,
@@ -3949,7 +3949,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/23",
+     "record_date": "2023/3/23",
      "Chemical oxygen demand": 55.65957447,
      "dissolved oxygen": 10.72657744,
      "Dissolved total organic carbon": 8.142,
@@ -3961,7 +3961,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/24",
+     "record_date": "2023/3/24",
      "Chemical oxygen demand": 6.214876033,
      "dissolved oxygen": 12.08704253,
      "Dissolved total organic carbon": 7.933,
@@ -3973,7 +3973,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/25",
+     "record_date": "2023/3/25",
      "Chemical oxygen demand": 4.188034188,
      "dissolved oxygen": 12.47813411,
      "Dissolved total organic carbon": 4.786,
@@ -3985,7 +3985,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/26",
+     "record_date": "2023/3/26",
      "Chemical oxygen demand": 5.806451613,
      "dissolved oxygen": 10.08298755,
      "Dissolved total organic carbon": 8.304,
@@ -3997,7 +3997,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/27",
+     "record_date": "2023/3/27",
      "Chemical oxygen demand": 5.152245345,
      "dissolved oxygen": 9.259259259,
      "Dissolved total organic carbon": 9.011,
@@ -4009,7 +4009,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/28",
+     "record_date": "2023/3/28",
      "Chemical oxygen demand": 6.56,
      "dissolved oxygen": 8.740310078,
      "Dissolved total organic carbon": 7.055,
@@ -4021,7 +4021,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/29",
+     "record_date": "2023/3/29",
      "Chemical oxygen demand": 4.513457557,
      "dissolved oxygen": 7.552581262,
      "Dissolved total organic carbon": 8.097,
@@ -4033,7 +4033,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/30",
+     "record_date": "2023/3/30",
      "Chemical oxygen demand": 4.89539749,
      "dissolved oxygen": 7.024952015,
      "Dissolved total organic carbon": 3.807,
@@ -4045,7 +4045,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/3\/31",
+     "record_date": "2023/3/31",
      "Chemical oxygen demand": 6.564983888,
      "dissolved oxygen": 6.457142857,
      "Dissolved total organic carbon": 6.297,
@@ -4057,7 +4057,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/1",
+     "record_date": "2023/4/1",
      "Chemical oxygen demand": 5.185349612,
      "dissolved oxygen": 7.295238095,
      "Dissolved total organic carbon": 6.983,
@@ -4069,7 +4069,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/2",
+     "record_date": "2023/4/2",
      "Chemical oxygen demand": 4.900335946,
      "dissolved oxygen": 8.124410933,
      "Dissolved total organic carbon": 4.344,
@@ -4081,7 +4081,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/3",
+     "record_date": "2023/4/3",
      "Chemical oxygen demand": 5.341538462,
      "dissolved oxygen": 9.507575758,
      "Dissolved total organic carbon": 7.492,
@@ -4093,7 +4093,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/4",
+     "record_date": "2023/4/4",
      "Chemical oxygen demand": 4.725388601,
      "dissolved oxygen": 11.05363985,
      "Dissolved total organic carbon": 4.837,
@@ -4105,7 +4105,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/5",
+     "record_date": "2023/4/5",
      "Chemical oxygen demand": 5.498964803,
      "dissolved oxygen": 13.01463415,
      "Dissolved total organic carbon": 5.276,
@@ -4117,7 +4117,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/6",
+     "record_date": "2023/4/6",
      "Chemical oxygen demand": 6.285119667,
      "dissolved oxygen": 10.26239067,
      "Dissolved total organic carbon": 5.733,
@@ -4129,7 +4129,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/7",
+     "record_date": "2023/4/7",
      "Chemical oxygen demand": 5.711899791,
      "dissolved oxygen": 10.64876957,
      "Dissolved total organic carbon": 7.281,
@@ -4141,7 +4141,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/8",
+     "record_date": "2023/4/8",
      "Chemical oxygen demand": 6.541666667,
      "dissolved oxygen": 8.453837597,
      "Dissolved total organic carbon": 6.972,
@@ -4153,7 +4153,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/9",
+     "record_date": "2023/4/9",
      "Chemical oxygen demand": 7.827338129,
      "dissolved oxygen": 7.721774194,
      "Dissolved total organic carbon": 6.369,
@@ -4165,7 +4165,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/10",
+     "record_date": "2023/4/10",
      "Chemical oxygen demand": 6.101554404,
      "dissolved oxygen": 7.360308285,
      "Dissolved total organic carbon": 3.597,
@@ -4177,7 +4177,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/11",
+     "record_date": "2023/4/11",
      "Chemical oxygen demand": 5.472803347,
      "dissolved oxygen": 6.488479263,
      "Dissolved total organic carbon": 5.136,
@@ -4189,7 +4189,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/12",
+     "record_date": "2023/4/12",
      "Chemical oxygen demand": 5.13015873,
      "dissolved oxygen": 7.119617225,
      "Dissolved total organic carbon": 6.291,
@@ -4201,7 +4201,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/13",
+     "record_date": "2023/4/13",
      "Chemical oxygen demand": 4.795031056,
      "dissolved oxygen": 7.241706161,
      "Dissolved total organic carbon": 5.497,
@@ -4213,7 +4213,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/14",
+     "record_date": "2023/4/14",
      "Chemical oxygen demand": 4.452751817,
      "dissolved oxygen": 8.691756272,
      "Dissolved total organic carbon": 3.41,
@@ -4225,7 +4225,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/15",
+     "record_date": "2023/4/15",
      "Chemical oxygen demand": 3.888774459,
      "dissolved oxygen": 11.35658915,
      "Dissolved total organic carbon": 4.474,
@@ -4237,7 +4237,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/16",
+     "record_date": "2023/4/16",
      "Chemical oxygen demand": 4.220603538,
      "dissolved oxygen": 10.69908815,
      "Dissolved total organic carbon": 3.939,
@@ -4249,7 +4249,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/17",
+     "record_date": "2023/4/17",
      "Chemical oxygen demand": 4.849949648,
      "dissolved oxygen": 12.41098678,
      "Dissolved total organic carbon": 3.311,
@@ -4261,7 +4261,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/18",
+     "record_date": "2023/4/18",
      "Chemical oxygen demand": 5.432896065,
      "dissolved oxygen": 11.81556196,
      "Dissolved total organic carbon": 2.496,
@@ -4273,7 +4273,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/19",
+     "record_date": "2023/4/19",
      "Chemical oxygen demand": 4.771186441,
      "dissolved oxygen": 10.40681173,
      "Dissolved total organic carbon": 3.386,
@@ -4285,7 +4285,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/20",
+     "record_date": "2023/4/20",
      "Chemical oxygen demand": 7.146541618,
      "dissolved oxygen": 9.292196007,
      "Dissolved total organic carbon": 4.679,
@@ -4297,7 +4297,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/21",
+     "record_date": "2023/4/21",
      "Chemical oxygen demand": 6.228187919,
      "dissolved oxygen": 8.229376258,
      "Dissolved total organic carbon": 4.884,
@@ -4309,7 +4309,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/22",
+     "record_date": "2023/4/22",
      "Chemical oxygen demand": 4.788732394,
      "dissolved oxygen": 8.583333333,
      "Dissolved total organic carbon": 5.493,
@@ -4321,7 +4321,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/23",
+     "record_date": "2023/4/23",
      "Chemical oxygen demand": 5.656286044,
      "dissolved oxygen": 7.238883144,
      "Dissolved total organic carbon": 5.597,
@@ -4333,7 +4333,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/24",
+     "record_date": "2023/4/24",
      "Chemical oxygen demand": 4.901149425,
      "dissolved oxygen": 7.757309185,
      "Dissolved total organic carbon": 4.014,
@@ -4345,7 +4345,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/25",
+     "record_date": "2023/4/25",
      "Chemical oxygen demand": 4.721712538,
      "dissolved oxygen": 7.969052224,
      "Dissolved total organic carbon": 4.347,
@@ -4357,7 +4357,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/26",
+     "record_date": "2023/4/26",
      "Chemical oxygen demand": 3.573333333,
      "dissolved oxygen": 7.497708524,
      "Dissolved total organic carbon": 3.322,
@@ -4369,7 +4369,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/27",
+     "record_date": "2023/4/27",
      "Chemical oxygen demand": 3.979570991,
      "dissolved oxygen": 9.636184857,
      "Dissolved total organic carbon": 5.264,
@@ -4381,7 +4381,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/28",
+     "record_date": "2023/4/28",
      "Chemical oxygen demand": 3.726907631,
      "dissolved oxygen": 11.63461538,
      "Dissolved total organic carbon": 4.408,
@@ -4393,7 +4393,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/29",
+     "record_date": "2023/4/29",
      "Chemical oxygen demand": 5.088031652,
      "dissolved oxygen": 13.20683112,
      "Dissolved total organic carbon": 4.639,
@@ -4405,7 +4405,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/4\/30",
+     "record_date": "2023/4/30",
      "Chemical oxygen demand": 3.951318458,
      "dissolved oxygen": 11.96983977,
      "Dissolved total organic carbon": 3.834,
@@ -4417,7 +4417,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/1",
+     "record_date": "2023/5/1",
      "Chemical oxygen demand": 5.612524462,
      "dissolved oxygen": 10.53304904,
      "Dissolved total organic carbon": 5.481,
@@ -4429,7 +4429,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/2",
+     "record_date": "2023/5/2",
      "Chemical oxygen demand": 6.799154334,
      "dissolved oxygen": 9.684210526,
      "Dissolved total organic carbon": 6.019,
@@ -4441,7 +4441,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/3",
+     "record_date": "2023/5/3",
      "Chemical oxygen demand": 5.22,
      "dissolved oxygen": 8.180883864,
      "Dissolved total organic carbon": 5.439,
@@ -4453,7 +4453,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/4",
+     "record_date": "2023/5/4",
      "Chemical oxygen demand": 6.451612903,
      "dissolved oxygen": 7.467204844,
      "Dissolved total organic carbon": 5.401,
@@ -4465,7 +4465,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/5",
+     "record_date": "2023/5/5",
      "Chemical oxygen demand": 4.978147763,
      "dissolved oxygen": 6.85546875,
      "Dissolved total organic carbon": 6.329,
@@ -4477,7 +4477,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/6",
+     "record_date": "2023/5/6",
      "Chemical oxygen demand": 5.050420168,
      "dissolved oxygen": 7.223300971,
      "Dissolved total organic carbon": 4.772,
@@ -4489,7 +4489,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/7",
+     "record_date": "2023/5/7",
      "Chemical oxygen demand": 5.415254237,
      "dissolved oxygen": 7.425925926,
      "Dissolved total organic carbon": 5.757,
@@ -4501,7 +4501,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/8",
+     "record_date": "2023/5/8",
      "Chemical oxygen demand": 4.609884332,
      "dissolved oxygen": 8.180961357,
      "Dissolved total organic carbon": 6.248,
@@ -4513,7 +4513,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/9",
+     "record_date": "2023/5/9",
      "Chemical oxygen demand": 3.268907563,
      "dissolved oxygen": 9.007352941,
      "Dissolved total organic carbon": 3.374,
@@ -4525,7 +4525,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/10",
+     "record_date": "2023/5/10",
      "Chemical oxygen demand": 3.257995736,
      "dissolved oxygen": 10.81876725,
      "Dissolved total organic carbon": 3.444,
@@ -4537,7 +4537,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/11",
+     "record_date": "2023/5/11",
      "Chemical oxygen demand": 3.498419389,
      "dissolved oxygen": 10.72300469,
      "Dissolved total organic carbon": 3.523,
@@ -4549,7 +4549,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/12",
+     "record_date": "2023/5/12",
      "Chemical oxygen demand": 5.034146341,
      "dissolved oxygen": 11.7215428,
      "Dissolved total organic carbon": 3.87,
@@ -4561,7 +4561,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/13",
+     "record_date": "2023/5/13",
      "Chemical oxygen demand": 7.429787234,
      "dissolved oxygen": 10.72300469,
      "Dissolved total organic carbon": 4.725,
@@ -4573,7 +4573,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/14",
+     "record_date": "2023/5/14",
      "Chemical oxygen demand": 6.119122257,
      "dissolved oxygen": 8.406337372,
      "Dissolved total organic carbon": 6.284,
@@ -4585,7 +4585,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/15",
+     "record_date": "2023/5/15",
      "Chemical oxygen demand": 4.481675393,
      "dissolved oxygen": 8.398510242,
      "Dissolved total organic carbon": 4.527,
@@ -4597,7 +4597,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/16",
+     "record_date": "2023/5/16",
      "Chemical oxygen demand": 8.059322034,
      "dissolved oxygen": 9.226467847,
      "Dissolved total organic carbon": 3.746,
@@ -4609,7 +4609,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/17",
+     "record_date": "2023/5/17",
      "Chemical oxygen demand": 4.232312566,
      "dissolved oxygen": 7.819687213,
      "Dissolved total organic carbon": 3.606,
@@ -4621,7 +4621,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/18",
+     "record_date": "2023/5/18",
      "Chemical oxygen demand": 4.439073515,
      "dissolved oxygen": 9.166666667,
      "Dissolved total organic carbon": 3.654,
@@ -4633,7 +4633,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/19",
+     "record_date": "2023/5/19",
      "Chemical oxygen demand": 5.716632444,
      "dissolved oxygen": 10.32512315,
      "Dissolved total organic carbon": 3.503,
@@ -4645,7 +4645,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/20",
+     "record_date": "2023/5/20",
      "Chemical oxygen demand": 3.681489142,
      "dissolved oxygen": 8.038647343,
      "Dissolved total organic carbon": 4.042,
@@ -4657,7 +4657,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/21",
+     "record_date": "2023/5/21",
      "Chemical oxygen demand": 3.472527473,
      "dissolved oxygen": 9.9,
      "Dissolved total organic carbon": 3.632,
@@ -4669,7 +4669,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/22",
+     "record_date": "2023/5/22",
      "Chemical oxygen demand": 4.621830209,
      "dissolved oxygen": 11.42300195,
      "Dissolved total organic carbon": 3.373,
@@ -4681,7 +4681,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/23",
+     "record_date": "2023/5/23",
      "Chemical oxygen demand": 6.396551724,
      "dissolved oxygen": 12.24120603,
      "Dissolved total organic carbon": 4.059,
@@ -4693,7 +4693,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/24",
+     "record_date": "2023/5/24",
      "Chemical oxygen demand": 4.607104413,
      "dissolved oxygen": 10.45226131,
      "Dissolved total organic carbon": 4.517,
@@ -4705,7 +4705,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/25",
+     "record_date": "2023/5/25",
      "Chemical oxygen demand": 5.472820513,
      "dissolved oxygen": 9.260780287,
      "Dissolved total organic carbon": 5.282,
@@ -4717,7 +4717,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/26",
+     "record_date": "2023/5/26",
      "Chemical oxygen demand": 4.894117647,
      "dissolved oxygen": 8.915906788,
      "Dissolved total organic carbon": 5.465,
@@ -4729,7 +4729,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/27",
+     "record_date": "2023/5/27",
      "Chemical oxygen demand": 6.578125,
      "dissolved oxygen": 8.545454545,
      "Dissolved total organic carbon": 5.942,
@@ -4741,7 +4741,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/28",
+     "record_date": "2023/5/28",
      "Chemical oxygen demand": 5.421052632,
      "dissolved oxygen": 7.4598678,
      "Dissolved total organic carbon": 5.891,
@@ -4753,7 +4753,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/29",
+     "record_date": "2023/5/29",
      "Chemical oxygen demand": 4.100908174,
      "dissolved oxygen": 7.149489322,
      "Dissolved total organic carbon": 4.337,
@@ -4765,7 +4765,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/30",
+     "record_date": "2023/5/30",
      "Chemical oxygen demand": 4.266120778,
      "dissolved oxygen": 9.089269612,
      "Dissolved total organic carbon": 3.834,
@@ -4777,7 +4777,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/5\/31",
+     "record_date": "2023/5/31",
      "Chemical oxygen demand": 3.962694301,
      "dissolved oxygen": 7.2265625,
      "Dissolved total organic carbon": 4.647,
@@ -4789,7 +4789,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/1",
+     "record_date": "2023/6/1",
      "Chemical oxygen demand": 4.755555556,
      "dissolved oxygen": 7.890625,
      "Dissolved total organic carbon": 4.845,
@@ -4801,7 +4801,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/2",
+     "record_date": "2023/6/2",
      "Chemical oxygen demand": 4.825396825,
      "dissolved oxygen": 8.979187314,
      "Dissolved total organic carbon": 5.733,
@@ -4813,7 +4813,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/3",
+     "record_date": "2023/6/3",
      "Chemical oxygen demand": 5.560220994,
      "dissolved oxygen": 10.34068136,
      "Dissolved total organic carbon": 4.891,
@@ -4825,7 +4825,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/4",
+     "record_date": "2023/6/4",
      "Chemical oxygen demand": 7.91416309,
      "dissolved oxygen": 11.28691983,
      "Dissolved total organic carbon": 6.15,
@@ -4837,7 +4837,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/5",
+     "record_date": "2023/6/5",
      "Chemical oxygen demand": 4.335015136,
      "dissolved oxygen": 11.53439153,
      "Dissolved total organic carbon": 4.984,
@@ -4849,7 +4849,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/6",
+     "record_date": "2023/6/6",
      "Chemical oxygen demand": 7.228140704,
      "dissolved oxygen": 10.84745763,
      "Dissolved total organic carbon": 6.459,
@@ -4861,7 +4861,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/7",
+     "record_date": "2023/6/7",
      "Chemical oxygen demand": 7.270611057,
      "dissolved oxygen": 9.492227979,
      "Dissolved total organic carbon": 5.876,
@@ -4873,7 +4873,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/8",
+     "record_date": "2023/6/8",
      "Chemical oxygen demand": 4.330275229,
      "dissolved oxygen": 8.367768595,
      "Dissolved total organic carbon": 5.611,
@@ -4885,7 +4885,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/9",
+     "record_date": "2023/6/9",
      "Chemical oxygen demand": 6.219382322,
      "dissolved oxygen": 7.698658411,
      "Dissolved total organic carbon": 5.308,
@@ -4897,7 +4897,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/10",
+     "record_date": "2023/6/10",
      "Chemical oxygen demand": 4.708423326,
      "dissolved oxygen": 7.849355798,
      "Dissolved total organic carbon": 4.123,
@@ -4909,7 +4909,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/11",
+     "record_date": "2023/6/11",
      "Chemical oxygen demand": 4.872180451,
      "dissolved oxygen": 7.232401157,
      "Dissolved total organic carbon": 3.75,
@@ -4921,7 +4921,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/12",
+     "record_date": "2023/6/12",
      "Chemical oxygen demand": 4.041237113,
      "dissolved oxygen": 7.562862669,
      "Dissolved total organic carbon": 2.698,
@@ -4933,7 +4933,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/13",
+     "record_date": "2023/6/13",
      "Chemical oxygen demand": 4.174301676,
      "dissolved oxygen": 8.298279159,
      "Dissolved total organic carbon": 3.507,
@@ -4945,7 +4945,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/14",
+     "record_date": "2023/6/14",
      "Chemical oxygen demand": 4.885428254,
      "dissolved oxygen": 9.170212766,
      "Dissolved total organic carbon": 2.903,
@@ -4957,7 +4957,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/15",
+     "record_date": "2023/6/15",
      "Chemical oxygen demand": 4,
      "dissolved oxygen": 11.27991675,
      "Dissolved total organic carbon": 3.575,
@@ -4969,7 +4969,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/16",
+     "record_date": "2023/6/16",
      "Chemical oxygen demand": 5.997755331,
      "dissolved oxygen": 11.19170984,
      "Dissolved total organic carbon": 4.231,
@@ -4981,7 +4981,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/17",
+     "record_date": "2023/6/17",
      "Chemical oxygen demand": 5.054994388,
      "dissolved oxygen": 11.7,
      "Dissolved total organic carbon": 4.323,
@@ -4993,7 +4993,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/18",
+     "record_date": "2023/6/18",
      "Chemical oxygen demand": 5.978021978,
      "dissolved oxygen": 9.67804878,
      "Dissolved total organic carbon": 5.342,
@@ -5005,7 +5005,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/19",
+     "record_date": "2023/6/19",
      "Chemical oxygen demand": 5.350372737,
      "dissolved oxygen": 9.583756345,
      "Dissolved total organic carbon": 5.368,
@@ -5017,7 +5017,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/20",
+     "record_date": "2023/6/20",
      "Chemical oxygen demand": 4.767010309,
      "dissolved oxygen": 7.901234568,
      "Dissolved total organic carbon": 4.813,
@@ -5029,7 +5029,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/21",
+     "record_date": "2023/6/21",
      "Chemical oxygen demand": 4.504540868,
      "dissolved oxygen": 6.063720452,
      "Dissolved total organic carbon": 4.534,
@@ -5041,7 +5041,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/22",
+     "record_date": "2023/6/22",
      "Chemical oxygen demand": 4.378600823,
      "dissolved oxygen": 6.484848485,
      "Dissolved total organic carbon": 4.668,
@@ -5053,7 +5053,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/23",
+     "record_date": "2023/6/23",
      "Chemical oxygen demand": 4.351738241,
      "dissolved oxygen": 7.082926829,
      "Dissolved total organic carbon": 4.012,
@@ -5065,7 +5065,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/24",
+     "record_date": "2023/6/24",
      "Chemical oxygen demand": 4.912142152,
      "dissolved oxygen": 6.4,
      "Dissolved total organic carbon": 5.379,
@@ -5077,7 +5077,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/25",
+     "record_date": "2023/6/25",
      "Chemical oxygen demand": 4.494845361,
      "dissolved oxygen": 5.251396648,
      "Dissolved total organic carbon": 4.352,
@@ -5089,7 +5089,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/26",
+     "record_date": "2023/6/26",
      "Chemical oxygen demand": 3.952941176,
      "dissolved oxygen": 8.303964758,
      "Dissolved total organic carbon": 3.743,
@@ -5101,7 +5101,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/27",
+     "record_date": "2023/6/27",
      "Chemical oxygen demand": 5.150105708,
      "dissolved oxygen": 7.583243824,
      "Dissolved total organic carbon": 3.754,
@@ -5113,7 +5113,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/28",
+     "record_date": "2023/6/28",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5125,7 +5125,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/29",
+     "record_date": "2023/6/29",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5137,7 +5137,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/6\/30",
+     "record_date": "2023/6/30",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5149,7 +5149,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/1",
+     "record_date": "2023/7/1",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5161,7 +5161,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/2",
+     "record_date": "2023/7/2",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5173,7 +5173,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/3",
+     "record_date": "2023/7/3",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5185,7 +5185,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/4",
+     "record_date": "2023/7/4",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5197,7 +5197,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/5",
+     "record_date": "2023/7/5",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5209,7 +5209,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/6",
+     "record_date": "2023/7/6",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5221,7 +5221,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/7",
+     "record_date": "2023/7/7",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5233,7 +5233,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/8",
+     "record_date": "2023/7/8",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5245,7 +5245,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/9",
+     "record_date": "2023/7/9",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5257,7 +5257,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/10",
+     "record_date": "2023/7/10",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5269,7 +5269,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/11",
+     "record_date": "2023/7/11",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5281,7 +5281,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/12",
+     "record_date": "2023/7/12",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5293,7 +5293,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/13",
+     "record_date": "2023/7/13",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5305,7 +5305,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/14",
+     "record_date": "2023/7/14",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5317,7 +5317,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/15",
+     "record_date": "2023/7/15",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5329,7 +5329,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/16",
+     "record_date": "2023/7/16",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5341,7 +5341,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/17",
+     "record_date": "2023/7/17",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5353,7 +5353,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/18",
+     "record_date": "2023/7/18",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5365,7 +5365,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/19",
+     "record_date": "2023/7/19",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5377,7 +5377,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/20",
+     "record_date": "2023/7/20",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5389,7 +5389,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/21",
+     "record_date": "2023/7/21",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5401,7 +5401,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/22",
+     "record_date": "2023/7/22",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5413,7 +5413,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/23",
+     "record_date": "2023/7/23",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5425,7 +5425,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/24",
+     "record_date": "2023/7/24",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5437,7 +5437,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/25",
+     "record_date": "2023/7/25",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5449,7 +5449,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/26",
+     "record_date": "2023/7/26",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,
@@ -5461,7 +5461,7 @@ export const total_data = [
     },
     {
      "user_id": 1,
-     "record_date": "2023\/7\/27",
+     "record_date": "2023/7/27",
      "Chemical oxygen demand": 6,
      "dissolved oxygen": 6,
      "Dissolved total organic carbon": 6,

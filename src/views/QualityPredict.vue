@@ -1,19 +1,17 @@
 <template>
 <div class="back-pc">
+  
   <a-form
     layout="inline"
     style="padding: 50px;"
   >
     <a-form-item>
       <a-select
-        v-model:value="value"
+        v-model:value="aera_id"
         show-search
-        placeholder="Select or search a aera"
+        placeholder="Select or search an aera"
         style="width: 200px"
         :options="options"
-        :filter-option="filterOption"
-        @focus="handleFocus"
-        @blur="handleBlur"
         @change="handleChange"
         allowClear
         
@@ -23,6 +21,7 @@
       <a-button
         type="primary"
         html-type="submit"
+        @click="handleSearch"
       >
         Search
       </a-button>
@@ -31,10 +30,11 @@
       <a-button
         type="primary"
         html-type="submit"
+        @click="handleReset"
       >
         Reset
       </a-button>
-      <button @click="showTab">Toggle</button>
+      
     </a-form-item>
   </a-form>
   <a-input placeholder="Region(latitude and longitude)" readonly style="width: 20vw;"></a-input>
@@ -51,45 +51,66 @@
 </template>
 <script lang="ts">
 //import type { SelectProps } from 'ant-design-vue';
+import { notification } from 'ant-design-vue';
 import { defineComponent, ref } from 'vue';
-import Sum from '@/components/tab/sum.vue'
 import TabPage from './TabPage.vue';
 export default defineComponent({
   components:{
     TabPage
   },
   setup() {
+    const aera_id = ref('1')
     const show = ref(true);
-    const showTab = () => {
-      show.value = !show.value;
-      console.log(show)
-    };
+    
     const options =([
-      { value: 'jack', label: 'Jack' },
-      { value: 'lucy', label: 'Lucy' },
-      { value: 'tom', label: 'Tom' },
+      { value: '1', label: 'TaiHu' },
+      { value: '2', label: 'Lake Illinois' },
+  
     ]);
     const handleChange = (value: string) => {
       console.log(`selected ${value}`);
+      if(value === undefined){
+          show.value = false
+      }
+      else{
+        show.value = true
+      }
     };
+    const handleSearch = () =>{
+      if(aera_id.value=='1' ||aera_id.value=='0' ){
+        show.value = true
+      }
+      else{
+        notification.open({
+        message: 'Please Select or search an aera',
+        description:
+          '',
+      });
+      }
+    }
     const handleBlur = () => {
       console.log('blur');
     };
     const handleFocus = () => {
       console.log('focus');
     };
-    const filterOption = (input: string, option: any) => {
-      return option.value.toLowerCase().indexOf(input.toLowerCase()) >= 0;
-    };
+    const handleReset =() =>{
+      aera_id.value = ''
+      show.value = false
+    }
+    // const filterOption = (input: string, option: any) => {
+    //   return option.value.toLowerCase().indexOf(input.toLowerCase()) >= 0;
+    // };
     return {
-      value: ref<string | undefined>(undefined),
-      filterOption,
+      aera_id,
       handleBlur,
       handleFocus,
       handleChange,
       options,
       show,
-      showTab,      
+     
+      handleReset,
+      handleSearch,     
     };
   },
 });

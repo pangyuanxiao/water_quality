@@ -4,19 +4,19 @@
       readonly style="width: 20vw; margin: 10vh;">
     </a-input>
     <a-row>
-    <a-col :span="2">col-2</a-col>
-    <a-col :span="9">
-      <div>
-      <p>
-        We supply a series of design principles, practical patterns and high quality design
-        resources (Sketch and Axure), to help people create their product prototypes beautifully and
-        efficiently.
-      </p>
-      </div>   
+    <a-col :span="4"></a-col>
+    <a-col :span="16">
+      <a-table :columns="columns" 
+        :data-source="table_data"          
+        bordered   > 
+        <template #bodyCell="{ column, text }">
+        <template v-if="column.dataIndex === 'name'">
+        <a>{{ text }}</a>
+        </template>
+        </template>
+      </a-table>   
     </a-col>
-    <a-col :span="2">col-2</a-col>
-    <a-col :span="9">col-8</a-col>
-    <a-col :span="2">col-2</a-col>
+    <a-col :span="4">col-2</a-col>
     </a-row>
     <!-- 走马灯 -->
     <a-carousel 
@@ -39,6 +39,20 @@
 //import { line } from './graph'
 
 import { defineComponent } from 'vue';
+const columns = [
+  {
+  title: 'Problem',
+  dataIndex: 'problem',
+  },
+  {
+  title: 'Success case',
+  dataIndex: 'Success case',
+  },
+];
+
+const table_data = [{
+
+}];
 
 export default defineComponent({
   setup(){
@@ -47,7 +61,10 @@ export default defineComponent({
         console.log("to:"+to)
     };
     return{
-      handleChange
+      handleChange,
+      columns,
+      table_data
+
     }
   },
   mounted() {
@@ -60,7 +77,7 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* For demo */
+/*走马灯 */
 .ant-carousel :deep(.slick-slide) {
   text-align: center;
   height: 160px;

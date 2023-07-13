@@ -1,22 +1,19 @@
 <template>
 <div style="overflow-y: auto;height: 50vh;">
-    <a-row>
-        <a-col :span="18">
-            <a-table :columns="columns" 
-            :data-source="table_data" 
-            :pagination="pagination"
-            bordered   > 
-            <template #bodyCell="{ column, text }">
-            <template v-if="column.dataIndex === 'name'">
-            <a>{{ text }}</a>
-            </template>
-            </template>
-            </a-table>
-        </a-col>
-        <a-col :span="6">
-
-        </a-col>
-    </a-row>
+   
+    <a-table :columns="columns" 
+    :data-source="table_data" 
+    :pagination="pagination"
+    
+    bordered   > 
+    <template #bodyCell="{ column, text }">
+    <template v-if="column.dataIndex === 'name'">
+    <a>{{ text }}</a>
+    </template>
+    </template>
+    </a-table>
+        
+   
     
 </div>
 </template>
@@ -32,6 +29,13 @@ const columns = [{
   {
     title: 'Chemical oxygen demand',
     dataIndex: 'Chemical oxygen demand',
+    customHeaderCell: (column: any) => {
+            return {
+              onClick: () => {
+                console.log(column.key);
+              }
+            };
+          }
   },
   {
     title: 'dissolved oxygen',

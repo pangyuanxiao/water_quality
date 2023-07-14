@@ -9,41 +9,52 @@
     <a-col :span="16">
       <a-row>
         <a-col :span="12" style="padding:10px ;">
-          <h2></h2>
-          
-      <i>
+          <a-carousel 
+            autoplay
+            :dots="false"
+            :beforeChange="handleChange">
+            <div>
+              <i>
         Agricultural management measures: 
       </i>      
       <p>
         Reducing the use of fertilizers and pesticides, improving soil conservation capacity, and implementing appropriate fertilization to reduce the load of agricultural non-point source pollution. 
       </p>
-      <i>
+            </div>
+            <div>
+              <i>
         Wastewater treatment:
       </i>
       <p>
         Improving urban and industrial wastewater treatment facilities to ensure efficient wastewater treatment processes, reducing the discharge of organic matter and nutrient substances. 
       </p>
-      <i>
+            </div>
+            <div>
+              <i>
         Soil erosion control around lakes:
       </i>
       <p>
         Taking measures to reduce soil erosion in farmland and around lakes, preventing nutrients and suspended solids from entering lakes. 
       </p>
-      <i>
+            </div>
+            <div>
+              <i>
         Water resource management: 
       </i>
       <p>
         Restricting water use and protecting natural wetlands around lakes to reduce nutrient inflow to lakes.
       </p>
-      <i>
+            </div>
+
+            <div>
+              <i>
         Monitoring and research:
       </i>
       <p>
         Conducting continuous water quality monitoring to understand the ecological status of lakes and the changing trends of eutrophication issues.
       </p>
- 
- 
- 
+            </div>
+    </a-carousel>
 
           
         </a-col>

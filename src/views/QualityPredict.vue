@@ -38,15 +38,15 @@
     </a-form-item>
   </a-form>
   <a-input placeholder="Region(latitude and longitude)" readonly style="width: 20vw;"></a-input>
- 
+ <p>aera1:outline：Total phosphorus Total nitrogen dissolved oxyge</p>
 </div>
+
 <Transition>
+  
   <div class="bottom-fixed" v-show="show">
     <TabPage/>
   </div>  
 </Transition>
-
-
 
 </template>
 <script lang="ts">
@@ -73,11 +73,11 @@ export default defineComponent({
           show.value = false
       }
       else{
-        show.value = true
+        //show.value = true
       }
     };
     const handleSearch = () =>{
-      if(aera_id.value=='1' ||aera_id.value=='0' ){
+      if(aera_id.value=='1' ||aera_id.value=='2' ){
         show.value = true
       }
       else{

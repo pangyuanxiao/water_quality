@@ -1,10 +1,18 @@
 <template>
   <div class="back-pc">
+  
     <a-input placeholder="Region(latitude and longitude)" 
       readonly style="width: 20vw; margin: 10vh;">
     </a-input>
     <a-row>
-    <a-col :span="4"></a-col>
+    <a-col :span="4">  <div>
+      <a-button type="primary" @click="showModal">Open Modal</a-button>
+    <a-modal v-model:visible="visible" :footer="null" title="Basic Modal">
+      <p>Some contents...</p>
+      <p>Some contents...</p>
+      <p>Some contents...</p>
+    </a-modal>
+  </div></a-col>
     <a-col :span="16">
       <a-table :columns="columns" 
         :data-source="table_data"          
@@ -38,7 +46,10 @@
 <script lang="ts">
 //import { line } from './graph'
 
-import { defineComponent } from 'vue';
+import { defineComponent, ref, } from 'vue';
+
+
+
 const columns = [
   {
   title: 'Problem',
@@ -56,6 +67,11 @@ const table_data = [{
 
 export default defineComponent({
   setup(){
+    const visible = ref<boolean>(false);
+
+    const showModal = () => {
+      visible.value = true;
+    }
     const handleChange = (from:any,to:any) =>{
         console.log("from:"+from)
         console.log("to:"+to)
@@ -63,7 +79,11 @@ export default defineComponent({
     return{
       handleChange,
       columns,
-      table_data
+      table_data,
+      visible,
+      showModal,
+      
+
 
     }
   },

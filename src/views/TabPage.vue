@@ -5,17 +5,45 @@
             <a-tab-pane key="1" tab="sum">
             <Sum/>
             </a-tab-pane>
-            <a-tab-pane key="2" tab="Chemical oxygen demand" >Content of Tab Pane 2</a-tab-pane>
-            <a-tab-pane key="3" tab="dissolved oxygen">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="4" tab="Dissolved total organic carbon">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="5" tab="PH">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="6" tab="phosphate">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="7" tab="silicate">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="8" tab="Total nitrogen">Content of Tab Pane 3</a-tab-pane>
-            <a-tab-pane key="9" tab="Total phosphorus">Content of Tab Pane 3</a-tab-pane>
+            <a-tab-pane key="2" tab="Chemical oxygen demand" >
+                <img src="../data/area1/1Chemicaloxygendemand.png" alt="" >
+            </a-tab-pane>
+            <a-tab-pane key="3" tab="dissolved oxygen">
+                <img src="../data/area1/2dissolvedoxygen.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="4" tab="Dissolved total organic carbon">
+                <img src="../data/area1/3Dissolvedtotalorganiccarbon.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="5" tab="PH">
+                <img src="../data/area1/4PH.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="6" tab="phosphate">
+                <img src="../data/area1/5Phosphate.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="7" tab="silicate">
+                <img src="../data/area1/6Silicate.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="8" tab="Total nitrogen">
+                <img src="../data/area1/7Totalnitrogen.png" alt="">
+            </a-tab-pane>
+            <a-tab-pane key="9" tab="Total phosphorus">
+                <img src="../data/area1/8Totalphosphorus.png" alt="">
+            </a-tab-pane>
         </a-tabs>
         </a-col>
         <a-col :span="4">
+            <div class="my_button">
+            <a-button style="width: 100%;">
+                <router-link to="/home/QualitySolution">
+                    View water quality optimization plan
+                </router-link>
+            </a-button>
+            <a-button style="width: 100%;">
+                <router-link to="/home/InfoPlatform">
+                    Seek help
+                </router-link>   
+            </a-button>
+            </div>
             
         </a-col>
     </a-row>
@@ -35,3 +63,11 @@ export default defineComponent({
     },
 })
 </script>
+
+<style scoped>
+ .my_button{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+ }
+</style>

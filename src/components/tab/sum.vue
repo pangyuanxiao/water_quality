@@ -1,7 +1,10 @@
 <template>
+
 <div style="overflow-y: auto;height: 50vh;">
+
+  
    
-    <a-table :columns="columns" 
+    <!-- <a-table :columns="columns" 
     :data-source="table_data" 
     :pagination="pagination"
     
@@ -11,7 +14,7 @@
     <a>{{ text }}</a>
     </template>
     </template>
-    </a-table>
+    </a-table> -->
         
    
     
@@ -19,9 +22,13 @@
 </template>
 
 <script lang="ts">
-import { defineComponent} from 'vue';
+import { defineComponent, ref} from 'vue';
 import {total_data} from '../../data/area1/total'
 const table_data = total_data;
+const open = ref<boolean>(true);
+
+
+
 const columns = [{
     title: 'record_date',
     dataIndex: 'record_date',
@@ -32,7 +39,7 @@ const columns = [{
     customHeaderCell: (column: any) => {
             return {
               onClick: () => {
-                console.log(column.key);
+                console.log(column);
               }
             };
           }
@@ -40,6 +47,7 @@ const columns = [{
   {
     title: 'dissolved oxygen',
     dataIndex: 'dissolved oxygen',
+    
   },
   {
     title: 'Dissolved total organic carbon',
@@ -69,12 +77,14 @@ const columns = [{
 
 export default defineComponent({
     setup(){
+      
         return{
             table_data,
             columns,
             pagination: {
                 pageSize: 10 // 每页显示 5 行数据
-            }
+            },
+           
         }
     }
 })

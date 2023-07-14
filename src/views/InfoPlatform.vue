@@ -6,14 +6,17 @@
   >
     <a-form-item label="Type:">
       <a-select
-      placeholder="Select or search a aera">
+      placeholder="Select Type">
 
       </a-select>
     </a-form-item>
-    <a-form-item label="Type:">
+    <a-form-item label="Area:">
       <a-select
-      placeholder="Select or search a aera">
+      placeholder="Select  Area">
       </a-select>
+    </a-form-item>
+    <a-form-item label="Theme:">
+      <a-input placeholder="Search Theme"></a-input>
     </a-form-item>
     <a-form-item>
       <a-button
@@ -36,7 +39,7 @@
         type="primary"
         html-type="submit"
       >
-        Reset
+        Publish information
       </a-button>
     </a-form-item>
     

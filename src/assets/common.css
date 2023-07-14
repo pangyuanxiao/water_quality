@@ -7,7 +7,7 @@
 .bottom-fixed {
     position: fixed;
     bottom: 0;
-    height: 60vh;
+    height: 70vh;
     width: 100%;
     background-color: rgb(255, 255, 255);
   }
@@ -18,4 +18,7 @@
 .v-enter-from,
 .v-leave-to {
   opacity: 0;
+}
+.my-table{
+  overflow-y: auto;height: 60vh;
 }

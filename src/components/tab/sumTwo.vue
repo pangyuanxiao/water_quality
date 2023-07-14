@@ -36,9 +36,10 @@
 
 <script lang="ts">
 import { defineComponent, ref} from 'vue';
-import {total_data} from '@/assets/data/area1/total'
+import {total2} from '@/assets/data/area2/total2'
 import {pictureIndex} from '../../util/getUrl'
-const table_data = total_data;
+
+const table_data = total2;
 const visible = ref<boolean>(false);
 const picture_title=ref <string>('')
 
@@ -52,21 +53,21 @@ export default defineComponent({
     setup(){
       const currentImgIndex = ref<number>(4)
       const imgs=[
-          require("@/assets/imgs/area1/1Chemicaloxygendemand.png"),
+          require("@/assets/imgs/area2/1Chemicaloxygendemand.png"),
 
-          require("@/assets/imgs/area1/2dissolvedoxygen.png"),
+          require("@/assets/imgs/area2/2dissolvedoxyen.png"),
 
-          require("@/assets/imgs/area1/3Dissolvedtotalorganiccarbon.png"),
+          require("@/assets/imgs/area2/3Dissolvedtotalorganiccarbon.png"),
 
-          require("@/assets/imgs/area1/4PH.png"),
+          require("@/assets/imgs/area2/4PH.png"),
 
-          require("@/assets/imgs/area1/5Phosphate.png"),
+          require("@/assets/imgs/area2/5phosphate.png"),
 
-          require("@/assets/imgs/area1/6Silicate.png"),
+          require("@/assets/imgs/area2/6silicate.png"),
 
-          require("@/assets/imgs/area1/7Totalnitrogen.png"),
+          require("@/assets/imgs/area2/7Totalnitrogen.png"),
 
-          require("@/assets/imgs/area1/8Totalphosphorus.png"),
+          require("@/assets/imgs/area2/8Totalphosphorus.png"),
         ]
      
       const showPicture = (column: any) => {

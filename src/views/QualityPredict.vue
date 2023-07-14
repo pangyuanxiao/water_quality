@@ -1,9 +1,10 @@
 <template>
 <div class="back-pc">
-  
-  <a-form
+ 
+      <a-form
     layout="inline"
     style="padding: 50px;"
+    
   >
     <a-form-item>
       <a-select
@@ -36,15 +37,24 @@
       </a-button>
       
     </a-form-item>
+    <a-form-item>
+      <Transition>
+    <a-input v-model:value="region" 
+    placeholder="Region(latitude and longitude)" 
+    readonly style="width: 200px;"
+    v-show="show"
+    ></a-input>
+  </Transition>
+    </a-form-item>
   </a-form>
-  <a-input placeholder="Region(latitude and longitude)" readonly style="width: 20vw;"></a-input>
- <p>aera1:outline：Total phosphorus Total nitrogen dissolved oxyge</p>
+ 
+
 </div>
 
 <Transition>
   
   <div class="bottom-fixed" v-show="show">
-    <TabPage/>
+    <TabPage :aera_id ='aera_id'/>
   </div>  
 </Transition>
 
@@ -59,21 +69,22 @@ export default defineComponent({
     TabPage
   },
   setup() {
-    const aera_id = ref('1')
-    const show = ref(true);
-    
+    const aera_id = ref('')
+    const show = ref(false);
+    const region=ref('') 
     const options =([
       { value: '1', label: 'TaiHu' },
       { value: '2', label: 'Lake Illinois' },
   
     ]);
     const handleChange = (value: string) => {
-      console.log(`selected ${value}`);
-      if(value === undefined){
-          show.value = false
+      //console.log(`selected ${value}`);
+      show.value = false
+      if(value === '1'){
+         region.value = '119.85°E~120.6°E/30.93°N~31.53°N'
       }
       else{
-        //show.value = true
+        region.value = '87.0°W~87.5°W/41.6°N~42.5°N'
       }
     };
     const handleSearch = () =>{
@@ -89,10 +100,10 @@ export default defineComponent({
       }
     }
     const handleBlur = () => {
-      console.log('blur');
+      //console.log('blur');
     };
     const handleFocus = () => {
-      console.log('focus');
+      //console.log('focus');
     };
     const handleReset =() =>{
       aera_id.value = ''
@@ -110,12 +121,13 @@ export default defineComponent({
       show,
      
       handleReset,
-      handleSearch,     
+      handleSearch,
+      region 
     };
   },
 });
 </script>
 
 <style>
-  
+
 </style>
